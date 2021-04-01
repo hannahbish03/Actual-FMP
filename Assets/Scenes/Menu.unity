@@ -190,7 +190,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Mystical Platform 2.0
+  m_Text: 'Impossible Platform!
+
+    (Fantacy Edition)
 
 '
 --- !u!222 &907668068
@@ -713,8 +715,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Beware as you could duplicate when you least expect too! \n(making the
-    game much harder)"
+  m_Text: Beware some of the platforms may lead you to the wrong path, so be careful
+    what path you choose!
 --- !u!222 &1923192331
 CanvasRenderer:
   m_ObjectHideFlags: 0
