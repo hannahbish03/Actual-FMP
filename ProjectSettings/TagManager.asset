@@ -9,6 +9,7 @@ TagManager:
   - Enemy
   - cameraBounds
   - ground
+  - Winner
   layers:
   - Default
   - TransparentFX

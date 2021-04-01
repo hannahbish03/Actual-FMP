@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Player : MonoBehaviour
 {
@@ -50,7 +51,16 @@ public class Player : MonoBehaviour
     }
 
 
+    void OnCollisionEnter2D(Collision2D collision2D)
+    {
+        if (collision2D.gameObject.tag == "Winner")
+        {
+            Debug.Log("works");
+            SceneManager.LoadScene("EndScene");
+        }
 
+        
+    }
 
 
 
