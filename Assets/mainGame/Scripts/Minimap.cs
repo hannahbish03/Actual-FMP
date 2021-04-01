@@ -11,7 +11,7 @@ public class Minimap : MonoBehaviour
     {
         player = FindObjectOfType<Player>().gameObject.transform;
         Vector3 newPosition = player.position;
-        newPosition.y = transform.position.y;
+        //newPosition.y = transform.position.y;
         newPosition.z = -10;
         transform.position = newPosition;
 
