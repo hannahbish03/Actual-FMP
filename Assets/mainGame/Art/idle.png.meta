@@ -1,0 +1,4118 @@
+fileFormatVersion: 2
+guid: b43b1855d333d8a4ea4b1e934b517cf2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4346183804542195515
+    second: image_123986672-removebg-preview (1)_0
+  - first:
+      213: 8927525159749396301
+    second: image_123986672-removebg-preview (1)_1
+  - first:
+      213: -7297001554913127826
+    second: image_123986672-removebg-preview (1)_2
+  - first:
+      213: -5202867831072122602
+    second: image_123986672-removebg-preview (1)_3
+  - first:
+      213: -5126455575255585802
+    second: image_123986672-removebg-preview (1)_4
+  - first:
+      213: 4905796587910773094
+    second: image_123986672-removebg-preview (1)_5
+  - first:
+      213: 112230152451033856
+    second: image_123986672-removebg-preview (1)_6
+  - first:
+      213: 7268580822500729213
+    second: image_123986672-removebg-preview (1)_7
+  - first:
+      213: 3548855696508929767
+    second: image_123986672-removebg-preview (1)_8
+  - first:
+      213: -3887773850232715432
+    second: image_123986672-removebg-preview (1)_9
+  - first:
+      213: 8152265839367547308
+    second: image_123986672-removebg-preview (1)_10
+  - first:
+      213: -8517853625172980872
+    second: image_123986672-removebg-preview (1)_11
+  - first:
+      213: 7983157973014552894
+    second: image_123986672-removebg-preview (1)_12
+  - first:
+      213: 1676231819759339008
+    second: image_123986672-removebg-preview (1)_13
+  - first:
+      213: -5262770871905197672
+    second: image_123986672-removebg-preview (1)_14
+  - first:
+      213: 5059839087845074536
+    second: image_123986672-removebg-preview (1)_15
+  - first:
+      213: 7590608307531915206
+    second: image_123986672-removebg-preview (1)_16
+  - first:
+      213: 4875675309427234913
+    second: image_123986672-removebg-preview (1)_17
+  - first:
+      213: -8636011914636886983
+    second: image_123986672-removebg-preview (1)_18
+  - first:
+      213: 4427426729787636413
+    second: image_123986672-removebg-preview (1)_19
+  - first:
+      213: -2078026111101490452
+    second: image_123986672-removebg-preview (1)_20
+  - first:
+      213: 366327966610856652
+    second: image_123986672-removebg-preview (1)_21
+  - first:
+      213: -7453677127987810509
+    second: image_123986672-removebg-preview (1)_22
+  - first:
+      213: -7150762168727752041
+    second: image_123986672-removebg-preview (1)_23
+  - first:
+      213: -7323031473834490830
+    second: image_123986672-removebg-preview (1)_24
+  - first:
+      213: -1263911153824779400
+    second: image_123986672-removebg-preview (1)_25
+  - first:
+      213: 8283978736458489129
+    second: image_123986672-removebg-preview (1)_26
+  - first:
+      213: 2909254641724907662
+    second: image_123986672-removebg-preview (1)_27
+  - first:
+      213: -2087642371633860131
+    second: image_123986672-removebg-preview (1)_28
+  - first:
+      213: 3141265894532738210
+    second: image_123986672-removebg-preview (1)_29
+  - first:
+      213: -2165449906124418740
+    second: image_123986672-removebg-preview (1)_30
+  - first:
+      213: -4178158100481172662
+    second: image_123986672-removebg-preview (1)_31
+  - first:
+      213: -3941116629761129656
+    second: image_123986672-removebg-preview (1)_32
+  - first:
+      213: 4016584494727706887
+    second: image_123986672-removebg-preview (1)_33
+  - first:
+      213: 5294204159886146155
+    second: image_123986672-removebg-preview (1)_34
+  - first:
+      213: 9008404802505247364
+    second: image_123986672-removebg-preview (1)_35
+  - first:
+      213: 2036923662994962989
+    second: image_123986672-removebg-preview (1)_36
+  - first:
+      213: -922895195897174989
+    second: image_123986672-removebg-preview (1)_37
+  - first:
+      213: 3552388735684696772
+    second: image_123986672-removebg-preview (1)_38
+  - first:
+      213: 9067579570172719131
+    second: image_123986672-removebg-preview (1)_39
+  - first:
+      213: -2630755009825160542
+    second: image_123986672-removebg-preview (1)_40
+  - first:
+      213: -5832959802555534070
+    second: image_123986672-removebg-preview (1)_41
+  - first:
+      213: 8498578670055174974
+    second: image_123986672-removebg-preview (1)_42
+  - first:
+      213: -4095957261221387411
+    second: image_123986672-removebg-preview (1)_43
+  - first:
+      213: 7838679869417557559
+    second: image_123986672-removebg-preview (1)_44
+  - first:
+      213: 3887789210108268092
+    second: image_123986672-removebg-preview (1)_45
+  - first:
+      213: -1845770571938182114
+    second: image_123986672-removebg-preview (1)_46
+  - first:
+      213: 2801297940177936638
+    second: image_123986672-removebg-preview (1)_47
+  - first:
+      213: -8087188877812287335
+    second: image_123986672-removebg-preview (1)_48
+  - first:
+      213: -3995060272251952425
+    second: image_123986672-removebg-preview (1)_49
+  - first:
+      213: 6056571991700613980
+    second: image_123986672-removebg-preview (1)_50
+  - first:
+      213: 3670090071820049936
+    second: image_123986672-removebg-preview (1)_51
+  - first:
+      213: 8696874507860203040
+    second: image_123986672-removebg-preview (1)_52
+  - first:
+      213: 6538308310422675337
+    second: image_123986672-removebg-preview (1)_53
+  - first:
+      213: 9015001890068883811
+    second: image_123986672-removebg-preview (1)_54
+  - first:
+      213: 4634140383123621663
+    second: image_123986672-removebg-preview (1)_55
+  - first:
+      213: 5310186828013106982
+    second: image_123986672-removebg-preview (1)_56
+  - first:
+      213: 3025941295496401220
+    second: image_123986672-removebg-preview (1)_57
+  - first:
+      213: 4754247445091202976
+    second: image_123986672-removebg-preview (1)_58
+  - first:
+      213: 593944070232696208
+    second: image_123986672-removebg-preview (1)_59
+  - first:
+      213: 1350353310002469888
+    second: image_123986672-removebg-preview (1)_60
+  - first:
+      213: 7055537643209415497
+    second: image_123986672-removebg-preview (1)_61
+  - first:
+      213: -9048007546372947567
+    second: image_123986672-removebg-preview (1)_62
+  - first:
+      213: -1505528056474154501
+    second: image_123986672-removebg-preview (1)_63
+  - first:
+      213: -3080333480215736018
+    second: image_123986672-removebg-preview (1)_64
+  - first:
+      213: 8371254975737016854
+    second: image_123986672-removebg-preview (1)_65
+  - first:
+      213: -7973439598250631098
+    second: image_123986672-removebg-preview (1)_66
+  - first:
+      213: -4972005533837667111
+    second: image_123986672-removebg-preview (1)_67
+  - first:
+      213: -2620503139615718602
+    second: image_123986672-removebg-preview (1)_68
+  - first:
+      213: -161839006962027635
+    second: image_123986672-removebg-preview (1)_69
+  - first:
+      213: 5832221480125466415
+    second: image_123986672-removebg-preview (1)_70
+  - first:
+      213: -690596715964343009
+    second: image_123986672-removebg-preview (1)_71
+  - first:
+      213: -4777869396983563794
+    second: image_123986672-removebg-preview (1)_72
+  - first:
+      213: -8001754772271432508
+    second: image_123986672-removebg-preview (1)_73
+  - first:
+      213: -1572190512093637868
+    second: image_123986672-removebg-preview (1)_74
+  - first:
+      213: -2014808291604017707
+    second: image_123986672-removebg-preview (1)_75
+  - first:
+      213: 6276961100298679445
+    second: image_123986672-removebg-preview (1)_76
+  - first:
+      213: -6943888562841374168
+    second: image_123986672-removebg-preview (1)_77
+  - first:
+      213: 2252949354124377376
+    second: image_123986672-removebg-preview (1)_78
+  - first:
+      213: 3795901099752821711
+    second: image_123986672-removebg-preview (1)_79
+  - first:
+      213: -9190153553511356849
+    second: image_123986672-removebg-preview (1)_80
+  - first:
+      213: 4090422348267687970
+    second: image_123986672-removebg-preview (1)_81
+  - first:
+      213: -2568806229976050961
+    second: image_123986672-removebg-preview (1)_82
+  - first:
+      213: -1301663150689006838
+    second: image_123986672-removebg-preview (1)_83
+  - first:
+      213: 5134831885027544987
+    second: image_123986672-removebg-preview (1)_84
+  - first:
+      213: -7711702105124944219
+    second: image_123986672-removebg-preview (1)_85
+  - first:
+      213: -3362337809552383088
+    second: image_123986672-removebg-preview (1)_86
+  - first:
+      213: 3125298202220486069
+    second: image_123986672-removebg-preview (1)_87
+  - first:
+      213: -6733036664022273986
+    second: image_123986672-removebg-preview (1)_88
+  - first:
+      213: 3026550501089502992
+    second: image_123986672-removebg-preview (1)_89
+  - first:
+      213: -8852011494766548570
+    second: image_123986672-removebg-preview (1)_90
+  - first:
+      213: -1562048287179802032
+    second: image_123986672-removebg-preview (1)_91
+  - first:
+      213: 1945211151682401215
+    second: image_123986672-removebg-preview (1)_92
+  - first:
+      213: -1117202824286266716
+    second: image_123986672-removebg-preview (1)_93
+  - first:
+      213: 8236909036590472008
+    second: image_123986672-removebg-preview (1)_94
+  - first:
+      213: -8928543232478529811
+    second: image_123986672-removebg-preview (1)_95
+  - first:
+      213: -7011954729368253867
+    second: image_123986672-removebg-preview (1)_96
+  - first:
+      213: 2295333549229038401
+    second: image_123986672-removebg-preview (1)_97
+  - first:
+      213: 4407735834075088744
+    second: image_123986672-removebg-preview (1)_98
+  - first:
+      213: 1749126951312496288
+    second: image_123986672-removebg-preview (1)_99
+  - first:
+      213: 6980775672124977480
+    second: image_123986672-removebg-preview (1)_100
+  - first:
+      213: -6851454972991299490
+    second: image_123986672-removebg-preview (1)_101
+  - first:
+      213: 4213131938379818504
+    second: image_123986672-removebg-preview (1)_102
+  - first:
+      213: -1501547363469606363
+    second: image_123986672-removebg-preview (1)_103
+  - first:
+      213: -1219069648955895305
+    second: image_123986672-removebg-preview (1)_104
+  - first:
+      213: -190404927234098934
+    second: image_123986672-removebg-preview (1)_105
+  - first:
+      213: -8382868775188014922
+    second: image_123986672-removebg-preview (1)_106
+  - first:
+      213: 8481008012838839701
+    second: image_123986672-removebg-preview (1)_107
+  - first:
+      213: -7219415764979321492
+    second: image_123986672-removebg-preview (1)_108
+  - first:
+      213: 3927633684421425436
+    second: image_123986672-removebg-preview (1)_109
+  - first:
+      213: 6508680194941242745
+    second: image_123986672-removebg-preview (1)_110
+  - first:
+      213: 4406326198972375103
+    second: image_123986672-removebg-preview (1)_111
+  - first:
+      213: 6343192336783217403
+    second: image_123986672-removebg-preview (1)_112
+  - first:
+      213: -9129477070003399966
+    second: image_123986672-removebg-preview (1)_113
+  - first:
+      213: 3948147212251775984
+    second: image_123986672-removebg-preview (1)_114
+  - first:
+      213: -7583306470030883054
+    second: image_123986672-removebg-preview (1)_115
+  - first:
+      213: 991051923527316326
+    second: image_123986672-removebg-preview (1)_116
+  - first:
+      213: -6704013130353893612
+    second: image_123986672-removebg-preview (1)_117
+  - first:
+      213: -368206779293009494
+    second: image_123986672-removebg-preview (1)_118
+  - first:
+      213: -5557362647843363275
+    second: image_123986672-removebg-preview (1)_119
+  - first:
+      213: 75946717900633451
+    second: image_123986672-removebg-preview (1)_120
+  - first:
+      213: -3665345450495429379
+    second: image_123986672-removebg-preview (1)_121
+  - first:
+      213: 6783404500985669775
+    second: image_123986672-removebg-preview (1)_122
+  - first:
+      213: 2317370096440250406
+    second: image_123986672-removebg-preview (1)_123
+  - first:
+      213: -2984925504882701172
+    second: image_123986672-removebg-preview (1)_124
+  - first:
+      213: -7565569933884670493
+    second: image_123986672-removebg-preview (1)_125
+  - first:
+      213: -8678023416334068632
+    second: image_123986672-removebg-preview (1)_126
+  - first:
+      213: 3697309507433578889
+    second: image_123986672-removebg-preview (1)_127
+  - first:
+      213: 280187940894806691
+    second: image_123986672-removebg-preview (1)_128
+  - first:
+      213: -44039276997251055
+    second: image_123986672-removebg-preview (1)_129
+  - first:
+      213: -2811357345303908515
+    second: image_123986672-removebg-preview (1)_130
+  - first:
+      213: -846083688008521340
+    second: image_123986672-removebg-preview (1)_131
+  - first:
+      213: 4092964907803413623
+    second: image_123986672-removebg-preview (1)_132
+  - first:
+      213: -7853207834908592675
+    second: image_123986672-removebg-preview (1)_133
+  - first:
+      213: -474423602180089262
+    second: image_123986672-removebg-preview (1)_134
+  - first:
+      213: -601336393689037744
+    second: image_123986672-removebg-preview (1)_135
+  - first:
+      213: 2467662412775880521
+    second: image_123986672-removebg-preview (1)_136
+  - first:
+      213: 3011605662161170429
+    second: image_123986672-removebg-preview (1)_137
+  - first:
+      213: 801144840828530406
+    second: image_123986672-removebg-preview (1)_138
+  - first:
+      213: -7456915676130799626
+    second: image_123986672-removebg-preview (1)_139
+  - first:
+      213: -3370488704774813592
+    second: image_123986672-removebg-preview (1)_140
+  - first:
+      213: 717760107902843844
+    second: image_123986672-removebg-preview (1)_141
+  - first:
+      213: 772716319721867060
+    second: image_123986672-removebg-preview (1)_142
+  - first:
+      213: 5721778681939777663
+    second: image_123986672-removebg-preview (1)_143
+  - first:
+      213: -4818810705137955975
+    second: image_123986672-removebg-preview (1)_144
+  - first:
+      213: 5453648375053504528
+    second: image_123986672-removebg-preview (1)_145
+  - first:
+      213: 5854558645629958089
+    second: image_123986672-removebg-preview (1)_146
+  - first:
+      213: -5395204980100005304
+    second: image_123986672-removebg-preview (1)_147
+  - first:
+      213: 6451291791529635477
+    second: image_123986672-removebg-preview (1)_148
+  - first:
+      213: -2063892103185023743
+    second: image_123986672-removebg-preview (1)_149
+  - first:
+      213: -3384454502819509981
+    second: image_123986672-removebg-preview (1)_150
+  - first:
+      213: -8055779810109713544
+    second: image_123986672-removebg-preview (1)_151
+  - first:
+      213: 1038934806805642633
+    second: image_123986672-removebg-preview (1)_152
+  - first:
+      213: -4716797793184652410
+    second: image_123986672-removebg-preview (1)_153
+  - first:
+      213: -9092140729252117829
+    second: image_123986672-removebg-preview (1)_154
+  - first:
+      213: -6874444261222157178
+    second: image_123986672-removebg-preview (1)_155
+  - first:
+      213: 4517740312052291148
+    second: image_123986672-removebg-preview (1)_156
+  - first:
+      213: -2812889199815741331
+    second: image_123986672-removebg-preview (1)_157
+  - first:
+      213: -6329752404681870095
+    second: image_123986672-removebg-preview (1)_158
+  - first:
+      213: 1474421289887241844
+    second: image_123986672-removebg-preview (1)_159
+  - first:
+      213: 7692170464824187269
+    second: image_123986672-removebg-preview (1)_160
+  - first:
+      213: -3557279794876933192
+    second: image_123986672-removebg-preview (1)_161
+  - first:
+      213: -5249585523584605053
+    second: image_123986672-removebg-preview (1)_162
+  - first:
+      213: -3948144351840014061
+    second: image_123986672-removebg-preview (1)_163
+  - first:
+      213: -1932404787138492143
+    second: image_123986672-removebg-preview (1)_164
+  - first:
+      213: -6249738820835347892
+    second: image_123986672-removebg-preview (1)_165
+  - first:
+      213: 4406076510028864192
+    second: image_123986672-removebg-preview (1)_166
+  - first:
+      213: -2836029481144515762
+    second: image_123986672-removebg-preview (1)_167
+  - first:
+      213: -1489090768149355803
+    second: image_123986672-removebg-preview (1)_168
+  - first:
+      213: 7711796641186053495
+    second: image_123986672-removebg-preview (1)_169
+  - first:
+      213: 6915629384403846135
+    second: image_123986672-removebg-preview (1)_170
+  - first:
+      213: -2216638573637049020
+    second: image_123986672-removebg-preview (1)_171
+  - first:
+      213: -8070538253920516661
+    second: image_123986672-removebg-preview (1)_172
+  - first:
+      213: -2621103194051495328
+    second: image_123986672-removebg-preview (1)_173
+  - first:
+      213: -5647360243124984916
+    second: image_123986672-removebg-preview (1)_174
+  - first:
+      213: 8185035452468766790
+    second: image_123986672-removebg-preview (1)_175
+  - first:
+      213: 5845347828188719460
+    second: image_123986672-removebg-preview (1)_176
+  - first:
+      213: -8389681121743125992
+    second: image_123986672-removebg-preview (1)_177
+  - first:
+      213: -7897533680233512893
+    second: image_123986672-removebg-preview (1)_178
+  - first:
+      213: 2358834040796290016
+    second: image_123986672-removebg-preview (1)_179
+  - first:
+      213: 1391813320247787950
+    second: image_123986672-removebg-preview (1)_180
+  - first:
+      213: -6862265836459812866
+    second: image_123986672-removebg-preview (1)_181
+  - first:
+      213: -1729342566601850576
+    second: image_123986672-removebg-preview (1)_182
+  - first:
+      213: 6442568808423676673
+    second: image_123986672-removebg-preview (1)_183
+  - first:
+      213: 1349500284475183787
+    second: image_123986672-removebg-preview (1)_184
+  - first:
+      213: 4570935123745934278
+    second: image_123986672-removebg-preview (1)_185
+  - first:
+      213: 1199238415977703284
+    second: image_123986672-removebg-preview (1)_186
+  - first:
+      213: -4293533013840257097
+    second: image_123986672-removebg-preview (1)_187
+  - first:
+      213: 2462880519828249410
+    second: image_123986672-removebg-preview (1)_188
+  - first:
+      213: -3985332464523271562
+    second: image_123986672-removebg-preview (1)_189
+  - first:
+      213: -1887801088395643271
+    second: image_123986672-removebg-preview (1)_190
+  - first:
+      213: 1699296505717254833
+    second: image_123986672-removebg-preview (1)_191
+  - first:
+      213: 2047432881730298265
+    second: image_123986672-removebg-preview (1)_192
+  - first:
+      213: -6460571231459695241
+    second: image_123986672-removebg-preview (1)_193
+  - first:
+      213: -436600449122918137
+    second: image_123986672-removebg-preview (1)_194
+  - first:
+      213: -1961776732330731360
+    second: image_123986672-removebg-preview (1)_195
+  - first:
+      213: 6952705311381198373
+    second: image_123986672-removebg-preview (1)_196
+  - first:
+      213: 3647852357800137611
+    second: image_123986672-removebg-preview (1)_197
+  - first:
+      213: -7628321682447398143
+    second: image_123986672-removebg-preview (1)_198
+  - first:
+      213: 5273966998167343131
+    second: image_123986672-removebg-preview (1)_199
+  - first:
+      213: -4740552096701668018
+    second: image_123986672-removebg-preview (1)_200
+  - first:
+      213: 1016611949538959910
+    second: image_123986672-removebg-preview (1)_201
+  - first:
+      213: -6734124484310747158
+    second: image_123986672-removebg-preview (1)_202
+  - first:
+      213: -8087770125110741384
+    second: image_123986672-removebg-preview (1)_203
+  - first:
+      213: 2961578875376423842
+    second: image_123986672-removebg-preview (1)_204
+  - first:
+      213: -2840249170868869459
+    second: image_123986672-removebg-preview (1)_205
+  - first:
+      213: -1626322168246122607
+    second: image_123986672-removebg-preview (1)_206
+  - first:
+      213: -1127885368099652911
+    second: image_123986672-removebg-preview (1)_207
+  - first:
+      213: 4309808822804575628
+    second: image_123986672-removebg-preview (1)_208
+  - first:
+      213: -8609651890641993019
+    second: image_123986672-removebg-preview (1)_209
+  - first:
+      213: 5677307254453078269
+    second: image_123986672-removebg-preview (1)_210
+  - first:
+      213: 7373191418286006049
+    second: image_123986672-removebg-preview (1)_211
+  - first:
+      213: -7144815878107442283
+    second: image_123986672-removebg-preview (1)_212
+  - first:
+      213: -1537287495373443181
+    second: image_123986672-removebg-preview (1)_213
+  - first:
+      213: 1775203605137214722
+    second: image_123986672-removebg-preview (1)_214
+  - first:
+      213: 4513333529749983092
+    second: image_123986672-removebg-preview (1)_215
+  - first:
+      213: 381726442284763218
+    second: image_123986672-removebg-preview (1)_216
+  - first:
+      213: -3377031738105971498
+    second: image_123986672-removebg-preview (1)_217
+  - first:
+      213: -1303304691555319030
+    second: image_123986672-removebg-preview (1)_218
+  - first:
+      213: -3072580180679314838
+    second: image_123986672-removebg-preview (1)_219
+  - first:
+      213: -8814539066133335645
+    second: image_123986672-removebg-preview (1)_220
+  - first:
+      213: 4239330325075732097
+    second: image_123986672-removebg-preview (1)_221
+  - first:
+      213: 2381919703138499779
+    second: image_123986672-removebg-preview (1)_222
+  - first:
+      213: -2025098038571680658
+    second: image_123986672-removebg-preview (1)_223
+  - first:
+      213: -9009875494724895044
+    second: image_123986672-removebg-preview (1)_224
+  - first:
+      213: 2686443640494710226
+    second: image_123986672-removebg-preview (1)_225
+  - first:
+      213: -7660771568936894197
+    second: image_123986672-removebg-preview (1)_226
+  - first:
+      213: -4639870058397115871
+    second: image_123986672-removebg-preview (1)_227
+  - first:
+      213: -5141158617874911051
+    second: image_123986672-removebg-preview (1)_228
+  - first:
+      213: -7240632462683097784
+    second: image_123986672-removebg-preview (1)_229
+  - first:
+      213: 331990923869279151
+    second: image_123986672-removebg-preview (1)_230
+  - first:
+      213: 1219911684057608488
+    second: image_123986672-removebg-preview (1)_231
+  - first:
+      213: -3514396219827306303
+    second: image_123986672-removebg-preview (1)_232
+  - first:
+      213: -3042336349435646624
+    second: image_123986672-removebg-preview (1)_233
+  - first:
+      213: -142031952573083504
+    second: image_123986672-removebg-preview (1)_234
+  - first:
+      213: -2004630451938742547
+    second: image_123986672-removebg-preview (1)_235
+  - first:
+      213: 6986012743824012248
+    second: image_123986672-removebg-preview (1)_236
+  - first:
+      213: -104375756445912083
+    second: image_123986672-removebg-preview (1)_237
+  - first:
+      213: 1353950623064715068
+    second: image_123986672-removebg-preview (1)_238
+  - first:
+      213: 5747436410601284846
+    second: image_123986672-removebg-preview (1)_239
+  - first:
+      213: 7068610358222107582
+    second: image_123986672-removebg-preview (1)_240
+  - first:
+      213: -2867578994138162108
+    second: image_123986672-removebg-preview (1)_241
+  - first:
+      213: 7701093928698367488
+    second: image_123986672-removebg-preview (1)_242
+  - first:
+      213: 7910190499328421298
+    second: image_123986672-removebg-preview (1)_243
+  - first:
+      213: -4705320443928370858
+    second: image_123986672-removebg-preview (1)_244
+  - first:
+      213: 723059266563298784
+    second: image_123986672-removebg-preview (1)_245
+  - first:
+      213: 2655450703787434486
+    second: image_123986672-removebg-preview (1)_246
+  - first:
+      213: -3841357045377738381
+    second: image_123986672-removebg-preview (1)_247
+  - first:
+      213: 2182961416234068903
+    second: image_123986672-removebg-preview (1)_248
+  - first:
+      213: 1421709584001050682
+    second: image_123986672-removebg-preview (1)_249
+  - first:
+      213: 8814963659354033379
+    second: image_123986672-removebg-preview (1)_250
+  - first:
+      213: -8522077240356077319
+    second: image_123986672-removebg-preview (1)_251
+  - first:
+      213: -6703612219643073881
+    second: image_123986672-removebg-preview (1)_252
+  - first:
+      213: 4323792672033709612
+    second: image_123986672-removebg-preview (1)_253
+  - first:
+      213: 7900361802725318966
+    second: image_123986672-removebg-preview (1)_254
+  - first:
+      213: -277200901334146804
+    second: image_123986672-removebg-preview (1)_255
+  - first:
+      213: 1871685867814263112
+    second: image_123986672-removebg-preview (1)_256
+  - first:
+      213: 1368590682776012957
+    second: image_123986672-removebg-preview (1)_257
+  - first:
+      213: 490563478601760346
+    second: image_123986672-removebg-preview (1)_258
+  - first:
+      213: 2449431711061290704
+    second: image_123986672-removebg-preview (1)_259
+  - first:
+      213: 780914935138812809
+    second: image_123986672-removebg-preview (1)_260
+  - first:
+      213: -279340558980399789
+    second: image_123986672-removebg-preview (1)_261
+  - first:
+      213: 1104994122313210755
+    second: image_123986672-removebg-preview (1)_262
+  - first:
+      213: -932307646964831348
+    second: image_123986672-removebg-preview (1)_263
+  - first:
+      213: -6117790669586922061
+    second: image_123986672-removebg-preview (1)_264
+  - first:
+      213: 343520019961571656
+    second: image_123986672-removebg-preview (1)_265
+  - first:
+      213: -6545314920900430016
+    second: image_123986672-removebg-preview (1)_266
+  - first:
+      213: -3390290979238860920
+    second: image_123986672-removebg-preview (1)_267
+  - first:
+      213: -3919712909838575720
+    second: image_123986672-removebg-preview (1)_268
+  - first:
+      213: 8544281455972326408
+    second: image_123986672-removebg-preview (1)_269
+  - first:
+      213: -2991997609585528293
+    second: image_123986672-removebg-preview (1)_270
+  - first:
+      213: 8464099091958907972
+    second: image_123986672-removebg-preview (1)_271
+  - first:
+      213: -2317526328731853690
+    second: image_123986672-removebg-preview (1)_272
+  - first:
+      213: 4748619098207048576
+    second: image_123986672-removebg-preview (1)_273
+  - first:
+      213: 3970151173556207445
+    second: image_123986672-removebg-preview (1)_274
+  - first:
+      213: 5151498336838911670
+    second: image_123986672-removebg-preview (1)_275
+  - first:
+      213: 345954050594009947
+    second: image_123986672-removebg-preview (1)_276
+  - first:
+      213: -4455931412466823372
+    second: image_123986672-removebg-preview (1)_277
+  - first:
+      213: -2247340210967167848
+    second: image_123986672-removebg-preview (1)_278
+  - first:
+      213: -4625630102811989487
+    second: image_123986672-removebg-preview (1)_279
+  - first:
+      213: 8081592686698844680
+    second: image_123986672-removebg-preview (1)_280
+  - first:
+      213: -1742086149479459107
+    second: image_123986672-removebg-preview (1)_281
+  - first:
+      213: -1902550819716246874
+    second: image_123986672-removebg-preview (1)_282
+  - first:
+      213: 1195668174213129045
+    second: image_123986672-removebg-preview (1)_283
+  - first:
+      213: -6526356206044292162
+    second: image_123986672-removebg-preview (1)_284
+  - first:
+      213: -4243763049114961548
+    second: image_123986672-removebg-preview (1)_285
+  - first:
+      213: -7257929464630211624
+    second: image_123986672-removebg-preview (1)_286
+  - first:
+      213: 8672536736799289672
+    second: image_123986672-removebg-preview (1)_287
+  - first:
+      213: -8431597293784782499
+    second: image_123986672-removebg-preview (1)_288
+  - first:
+      213: 8095748053570593207
+    second: image_123986672-removebg-preview (1)_289
+  - first:
+      213: -5955970595176410053
+    second: image_123986672-removebg-preview (1)_290
+  - first:
+      213: 443534460256915472
+    second: image_123986672-removebg-preview (1)_291
+  - first:
+      213: 8527490523038769521
+    second: image_123986672-removebg-preview (1)_292
+  - first:
+      213: 3504472878117468230
+    second: image_123986672-removebg-preview (1)_293
+  - first:
+      213: -8360848557490037843
+    second: image_123986672-removebg-preview (1)_294
+  - first:
+      213: -5030876027360696855
+    second: image_123986672-removebg-preview (1)_295
+  - first:
+      213: -601963668914369637
+    second: image_123986672-removebg-preview (1)_296
+  - first:
+      213: 3686117254353837857
+    second: image_123986672-removebg-preview (1)_297
+  - first:
+      213: 1967547394309618126
+    second: image_123986672-removebg-preview (1)_298
+  - first:
+      213: -3329827927112967951
+    second: image_123986672-removebg-preview (1)_299
+  - first:
+      213: 2411157585087033561
+    second: image_123986672-removebg-preview (1)_300
+  - first:
+      213: 2359238859031522839
+    second: image_123986672-removebg-preview (1)_301
+  - first:
+      213: -8967004266003386631
+    second: image_123986672-removebg-preview (1)_302
+  - first:
+      213: 7311649387343562812
+    second: image_123986672-removebg-preview (1)_303
+  - first:
+      213: 2243644988171601030
+    second: image_123986672-removebg-preview (1)_304
+  - first:
+      213: -783738990427592217
+    second: image_123986672-removebg-preview (1)_305
+  - first:
+      213: -3087096142832645060
+    second: image_123986672-removebg-preview (1)_306
+  - first:
+      213: 7929758216080305641
+    second: image_123986672-removebg-preview (1)_307
+  - first:
+      213: -2665044304912803697
+    second: image_123986672-removebg-preview (1)_308
+  - first:
+      213: -7625100585201491587
+    second: image_123986672-removebg-preview (1)_309
+  - first:
+      213: -2673162081554392649
+    second: image_123986672-removebg-preview (1)_310
+  - first:
+      213: 3335950813949915319
+    second: image_123986672-removebg-preview (1)_311
+  - first:
+      213: -4233973068697666686
+    second: image_123986672-removebg-preview (1)_312
+  - first:
+      213: 1188363636240727890
+    second: image_123986672-removebg-preview (1)_313
+  - first:
+      213: 9222615973774464234
+    second: image_123986672-removebg-preview (1)_314
+  - first:
+      213: 4065611049587518116
+    second: image_123986672-removebg-preview (1)_315
+  - first:
+      213: -1427757664413948575
+    second: image_123986672-removebg-preview (1)_316
+  - first:
+      213: -8681502524026265802
+    second: image_123986672-removebg-preview (1)_317
+  - first:
+      213: 8585906672687058901
+    second: image_123986672-removebg-preview (1)_318
+  - first:
+      213: 1276004878941865784
+    second: image_123986672-removebg-preview (1)_319
+  - first:
+      213: 5024469128627132167
+    second: image_123986672-removebg-preview (1)_320
+  - first:
+      213: -6254028179977323289
+    second: image_123986672-removebg-preview (1)_321
+  - first:
+      213: -8578522256788047721
+    second: image_123986672-removebg-preview (1)_322
+  - first:
+      213: -3302548495284135352
+    second: image_123986672-removebg-preview (1)_323
+  - first:
+      213: 6280072216616476469
+    second: image_123986672-removebg-preview (1)_324
+  - first:
+      213: -815522847471526839
+    second: image_123986672-removebg-preview (1)_325
+  - first:
+      213: -1010495265079711453
+    second: image_123986672-removebg-preview (1)_326
+  - first:
+      213: -8228164964708329205
+    second: image_123986672-removebg-preview (1)_327
+  - first:
+      213: 5735133697143188732
+    second: image_123986672-removebg-preview (1)_328
+  - first:
+      213: 149861339561545589
+    second: image_123986672-removebg-preview (1)_329
+  - first:
+      213: -4918249116330738388
+    second: image_123986672-removebg-preview (1)_330
+  - first:
+      213: -8084003844962006937
+    second: image_123986672-removebg-preview (1)_331
+  - first:
+      213: -4460694791272782435
+    second: image_123986672-removebg-preview (1)_332
+  - first:
+      213: -427634093397728338
+    second: image_123986672-removebg-preview (1)_333
+  - first:
+      213: 8141075569205124541
+    second: image_123986672-removebg-preview (1)_334
+  - first:
+      213: 6151624844417184094
+    second: image_123986672-removebg-preview (1)_335
+  - first:
+      213: 5247102396771641781
+    second: image_123986672-removebg-preview (1)_336
+  - first:
+      213: 8683486469204124931
+    second: image_123986672-removebg-preview (1)_337
+  - first:
+      213: 3250232682042626136
+    second: image_123986672-removebg-preview (1)_338
+  - first:
+      213: -7049091429748424694
+    second: image_123986672-removebg-preview (1)_339
+  - first:
+      213: -7641548345521460267
+    second: image_123986672-removebg-preview (1)_340
+  - first:
+      213: -6077551042097299230
+    second: image_123986672-removebg-preview (1)_341
+  - first:
+      213: -8185216104037659820
+    second: image_123986672-removebg-preview (1)_342
+  - first:
+      213: -4889721666801584966
+    second: image_123986672-removebg-preview (1)_343
+  - first:
+      213: -862663519382710103
+    second: image_123986672-removebg-preview (1)_344
+  - first:
+      213: 8268517509243342988
+    second: image_123986672-removebg-preview (1)_345
+  - first:
+      213: 6857704972210122203
+    second: image_123986672-removebg-preview (1)_346
+  - first:
+      213: -4179002700341934362
+    second: image_123986672-removebg-preview (1)_347
+  - first:
+      213: 5186661214082534634
+    second: image_123986672-removebg-preview (1)_348
+  - first:
+      213: -2938571731380498997
+    second: image_123986672-removebg-preview (1)_349
+  - first:
+      213: 3259791032349543368
+    second: image_123986672-removebg-preview (1)_350
+  - first:
+      213: -3331278092984496738
+    second: image_123986672-removebg-preview (1)_351
+  - first:
+      213: 3890304931267961269
+    second: image_123986672-removebg-preview (1)_352
+  - first:
+      213: -8153364439102668715
+    second: image_123986672-removebg-preview (1)_353
+  - first:
+      213: 1440293054683840348
+    second: image_123986672-removebg-preview (1)_354
+  - first:
+      213: -4101172653071010514
+    second: image_123986672-removebg-preview (1)_355
+  - first:
+      213: 1610813172357062713
+    second: image_123986672-removebg-preview (1)_356
+  - first:
+      213: 1465869984562518336
+    second: image_123986672-removebg-preview (1)_357
+  - first:
+      213: -5638546540765260647
+    second: image_123986672-removebg-preview (1)_358
+  - first:
+      213: 3463113617993351129
+    second: image_123986672-removebg-preview (1)_359
+  - first:
+      213: -4126509490901142013
+    second: image_123986672-removebg-preview (1)_360
+  - first:
+      213: 8293364183737322774
+    second: image_123986672-removebg-preview (1)_361
+  - first:
+      213: -4583289208965870987
+    second: image_123986672-removebg-preview (1)_362
+  - first:
+      213: 7691396973284026622
+    second: image_123986672-removebg-preview (1)_363
+  - first:
+      213: -2336377995508484053
+    second: image_123986672-removebg-preview (1)_364
+  - first:
+      213: 7385103228293245038
+    second: image_123986672-removebg-preview (1)_365
+  - first:
+      213: -133344745372159538
+    second: image_123986672-removebg-preview (1)_366
+  - first:
+      213: -5442625312194922461
+    second: image_123986672-removebg-preview (1)_367
+  - first:
+      213: 755696307109101728
+    second: image_123986672-removebg-preview (1)_368
+  - first:
+      213: 7580492683241479945
+    second: image_123986672-removebg-preview (1)_369
+  - first:
+      213: 4961704415931041609
+    second: image_123986672-removebg-preview (1)_370
+  - first:
+      213: -7063765914346173081
+    second: image_123986672-removebg-preview (1)_371
+  - first:
+      213: -9144833222471674004
+    second: image_123986672-removebg-preview (1)_372
+  - first:
+      213: 1977661573356106709
+    second: image_123986672-removebg-preview (1)_373
+  - first:
+      213: 3347036360207728626
+    second: image_123986672-removebg-preview (1)_374
+  - first:
+      213: -7801425941516414885
+    second: image_123986672-removebg-preview (1)_375
+  - first:
+      213: -5304991015584554592
+    second: image_123986672-removebg-preview (1)_376
+  - first:
+      213: -1156725368634722313
+    second: image_123986672-removebg-preview (1)_377
+  - first:
+      213: 2667361506165590036
+    second: image_123986672-removebg-preview (1)_378
+  - first:
+      213: 8234133884014831008
+    second: image_123986672-removebg-preview (1)_379
+  - first:
+      213: -6836561261239631599
+    second: image_123986672-removebg-preview (1)_380
+  - first:
+      213: 8899563974341712794
+    second: image_123986672-removebg-preview (1)_381
+  - first:
+      213: -8614924021446231900
+    second: image_123986672-removebg-preview (1)_382
+  - first:
+      213: 308162968357160044
+    second: image_123986672-removebg-preview (1)_383
+  - first:
+      213: 1590914653196859789
+    second: image_123986672-removebg-preview (1)_384
+  - first:
+      213: 475424504384460165
+    second: image_123986672-removebg-preview (1)_385
+  - first:
+      213: 7574896697929261483
+    second: image_123986672-removebg-preview (1)_386
+  - first:
+      213: 5005611538277957608
+    second: image_123986672-removebg-preview (1)_387
+  - first:
+      213: 3079039052693672734
+    second: image_123986672-removebg-preview (1)_388
+  - first:
+      213: -3632147442004958812
+    second: image_123986672-removebg-preview (1)_389
+  - first:
+      213: 4584443829592375130
+    second: image_123986672-removebg-preview (1)_390
+  - first:
+      213: -2144153221523190172
+    second: image_123986672-removebg-preview (1)_391
+  - first:
+      213: -1311232717971035354
+    second: image_123986672-removebg-preview (1)_392
+  - first:
+      213: -3857899715923219485
+    second: image_123986672-removebg-preview (1)_393
+  - first:
+      213: -8562471078334592296
+    second: image_123986672-removebg-preview (1)_394
+  - first:
+      213: -2128736413105207633
+    second: image_123986672-removebg-preview (1)_395
+  - first:
+      213: 4202267807407518932
+    second: image_123986672-removebg-preview (1)_396
+  - first:
+      213: -5558723250561783398
+    second: image_123986672-removebg-preview (1)_397
+  - first:
+      213: 1210834208441415658
+    second: image_123986672-removebg-preview (1)_398
+  - first:
+      213: -3697885722115118591
+    second: image_123986672-removebg-preview (1)_399
+  - first:
+      213: -5872084122391361430
+    second: image_123986672-removebg-preview (1)_400
+  - first:
+      213: 2584246633000265754
+    second: image_123986672-removebg-preview (1)_401
+  - first:
+      213: -2398554507717155101
+    second: image_123986672-removebg-preview (1)_402
+  - first:
+      213: 2328384377078314940
+    second: image_123986672-removebg-preview (1)_403
+  - first:
+      213: 956068762624476472
+    second: image_123986672-removebg-preview (1)_404
+  - first:
+      213: -3753531965568929797
+    second: image_123986672-removebg-preview (1)_405
+  - first:
+      213: 5279349380345773437
+    second: image_123986672-removebg-preview (1)_406
+  - first:
+      213: -1161995058449057974
+    second: image_123986672-removebg-preview (1)_407
+  - first:
+      213: 4565091551005082409
+    second: image_123986672-removebg-preview (1)_408
+  - first:
+      213: 4868069234289715829
+    second: image_123986672-removebg-preview (1)_409
+  - first:
+      213: -571122004548416616
+    second: image_123986672-removebg-preview (1)_410
+  - first:
+      213: -6957058672054162579
+    second: image_123986672-removebg-preview (1)_411
+  - first:
+      213: 4600980921136558024
+    second: image_123986672-removebg-preview (1)_412
+  - first:
+      213: -2983775308459896580
+    second: image_123986672-removebg-preview (1)_413
+  - first:
+      213: 6571105940828944590
+    second: image_123986672-removebg-preview (1)_414
+  - first:
+      213: -8084970791690927766
+    second: image_123986672-removebg-preview (1)_415
+  - first:
+      213: 4286415054227340436
+    second: image_123986672-removebg-preview (1)_416
+  - first:
+      213: 6722104480177111872
+    second: image_123986672-removebg-preview (1)_417
+  - first:
+      213: 7383669927577550465
+    second: image_123986672-removebg-preview (1)_418
+  - first:
+      213: -7943021484724483686
+    second: image_123986672-removebg-preview (1)_419
+  - first:
+      213: 859421264870438403
+    second: image_123986672-removebg-preview (1)_420
+  - first:
+      213: 5713438994223138286
+    second: image_123986672-removebg-preview (1)_421
+  - first:
+      213: -8821957445975302368
+    second: image_123986672-removebg-preview (1)_422
+  - first:
+      213: -9015106950951712468
+    second: image_123986672-removebg-preview (1)_423
+  - first:
+      213: -5624351596532567596
+    second: image_123986672-removebg-preview (1)_424
+  - first:
+      213: -2346547946923020238
+    second: image_123986672-removebg-preview (1)_425
+  - first:
+      213: 178916211633368541
+    second: image_123986672-removebg-preview (1)_426
+  - first:
+      213: 3058344827678403388
+    second: image_123986672-removebg-preview (1)_427
+  - first:
+      213: 3003608232723161896
+    second: image_123986672-removebg-preview (1)_428
+  - first:
+      213: -1668753700162143391
+    second: image_123986672-removebg-preview (1)_429
+  - first:
+      213: 5975239480601881486
+    second: image_123986672-removebg-preview (1)_430
+  - first:
+      213: -4263105919564873798
+    second: image_123986672-removebg-preview (1)_431
+  - first:
+      213: 2247721247958230837
+    second: image_123986672-removebg-preview (1)_432
+  - first:
+      213: -4996112437063916932
+    second: image_123986672-removebg-preview (1)_433
+  - first:
+      213: 7576981496567176683
+    second: image_123986672-removebg-preview (1)_434
+  - first:
+      213: -3549517718787966926
+    second: image_123986672-removebg-preview (1)_435
+  - first:
+      213: 5895103055825426994
+    second: image_123986672-removebg-preview (1)_436
+  - first:
+      213: -1120486921795752318
+    second: image_123986672-removebg-preview (1)_437
+  - first:
+      213: 1112457880779180056
+    second: image_123986672-removebg-preview (1)_438
+  - first:
+      213: 5491762210135310370
+    second: image_123986672-removebg-preview (1)_439
+  - first:
+      213: 931625100184988804
+    second: image_123986672-removebg-preview (1)_440
+  - first:
+      213: -5708205466548251554
+    second: image_123986672-removebg-preview (1)_441
+  - first:
+      213: 8592491269772704519
+    second: image_123986672-removebg-preview (1)_442
+  - first:
+      213: -9171892807246251309
+    second: image_123986672-removebg-preview (1)_443
+  - first:
+      213: -6060222857157369064
+    second: image_123986672-removebg-preview (1)_444
+  - first:
+      213: -3352705796787153562
+    second: image_123986672-removebg-preview (1)_445
+  - first:
+      213: 4760008177490846347
+    second: image_123986672-removebg-preview (1)_446
+  - first:
+      213: 6686170857638206250
+    second: image_123986672-removebg-preview (1)_447
+  - first:
+      213: -2619771870190101962
+    second: image_123986672-removebg-preview (1)_448
+  - first:
+      213: -6629843571990896147
+    second: image_123986672-removebg-preview (1)_449
+  - first:
+      213: -7466262847783909530
+    second: image_123986672-removebg-preview (1)_450
+  - first:
+      213: -9010035654231256332
+    second: image_123986672-removebg-preview (1)_451
+  - first:
+      213: 8026883070192762946
+    second: image_123986672-removebg-preview (1)_452
+  - first:
+      213: 2774191788394222582
+    second: image_123986672-removebg-preview (1)_453
+  - first:
+      213: -5772308663655515690
+    second: image_123986672-removebg-preview (1)_454
+  - first:
+      213: 5230290889250177113
+    second: image_123986672-removebg-preview (1)_455
+  - first:
+      213: 8052446243780170574
+    second: image_123986672-removebg-preview (1)_456
+  - first:
+      213: 5590355242474990718
+    second: image_123986672-removebg-preview (1)_457
+  - first:
+      213: -1992167457385430723
+    second: image_123986672-removebg-preview (1)_458
+  - first:
+      213: 5699983979852582174
+    second: image_123986672-removebg-preview (1)_459
+  - first:
+      213: 7218279780027297259
+    second: image_123986672-removebg-preview (1)_460
+  - first:
+      213: -5483449225374110444
+    second: image_123986672-removebg-preview (1)_461
+  - first:
+      213: 3408373570229492213
+    second: image_123986672-removebg-preview (1)_462
+  - first:
+      213: -8711924474040944528
+    second: image_123986672-removebg-preview (1)_463
+  - first:
+      213: -5518022860878496160
+    second: image_123986672-removebg-preview (1)_464
+  - first:
+      213: 3977228202171005172
+    second: image_123986672-removebg-preview (1)_465
+  - first:
+      213: -6848891215565647283
+    second: image_123986672-removebg-preview (1)_466
+  - first:
+      213: 6943158992065935905
+    second: image_123986672-removebg-preview (1)_467
+  - first:
+      213: -7299463081114139522
+    second: image_123986672-removebg-preview (1)_468
+  - first:
+      213: 3461773754422350612
+    second: image_123986672-removebg-preview (1)_469
+  - first:
+      213: -8815150420902529900
+    second: image_123986672-removebg-preview (1)_470
+  - first:
+      213: 5415079015232752416
+    second: image_123986672-removebg-preview (1)_471
+  - first:
+      213: 5520793110926524193
+    second: image_123986672-removebg-preview (1)_472
+  - first:
+      213: -2963937772698315796
+    second: image_123986672-removebg-preview (1)_473
+  - first:
+      213: 836985202032174748
+    second: image_123986672-removebg-preview (1)_474
+  - first:
+      213: 4620954845399148195
+    second: image_123986672-removebg-preview (1)_475
+  - first:
+      213: -8641112148396141913
+    second: image_123986672-removebg-preview (1)_476
+  - first:
+      213: 8158829207221689864
+    second: image_123986672-removebg-preview (1)_477
+  - first:
+      213: 3089982244032555919
+    second: image_123986672-removebg-preview (1)_478
+  - first:
+      213: -7012915110614428743
+    second: image_123986672-removebg-preview (1)_479
+  - first:
+      213: 5988998574098650798
+    second: image_123986672-removebg-preview (1)_480
+  - first:
+      213: 8232321644618812978
+    second: image_123986672-removebg-preview (1)_481
+  - first:
+      213: 9041813084819841402
+    second: image_123986672-removebg-preview (1)_482
+  - first:
+      213: 3427475161759060493
+    second: image_123986672-removebg-preview (1)_483
+  - first:
+      213: 6627352308554730566
+    second: image_123986672-removebg-preview (1)_484
+  - first:
+      213: 1150516480165470908
+    second: image_123986672-removebg-preview (1)_485
+  - first:
+      213: 1357324435293380189
+    second: image_123986672-removebg-preview (1)_486
+  - first:
+      213: 6669927621860879669
+    second: image_123986672-removebg-preview (1)_487
+  - first:
+      213: -7256599444021288001
+    second: image_123986672-removebg-preview (1)_488
+  - first:
+      213: 8659424390775523763
+    second: image_123986672-removebg-preview (1)_489
+  - first:
+      213: -2663801209673487191
+    second: image_123986672-removebg-preview (1)_490
+  - first:
+      213: -7418420072473106600
+    second: image_123986672-removebg-preview (1)_491
+  - first:
+      213: 5455335350037527432
+    second: image_123986672-removebg-preview (1)_492
+  - first:
+      213: -1777757486213756184
+    second: image_123986672-removebg-preview (1)_493
+  - first:
+      213: 5183323240498900282
+    second: image_123986672-removebg-preview (1)_494
+  - first:
+      213: 6462420024582823275
+    second: image_123986672-removebg-preview (1)_495
+  - first:
+      213: -3757145118340838582
+    second: image_123986672-removebg-preview (1)_496
+  - first:
+      213: -4060723276861598715
+    second: image_123986672-removebg-preview (1)_497
+  - first:
+      213: 2525242075239037786
+    second: image_123986672-removebg-preview (1)_498
+  - first:
+      213: -490535519811885007
+    second: image_123986672-removebg-preview (1)_499
+  - first:
+      213: -3377603924166646695
+    second: image_123986672-removebg-preview (1)_500
+  - first:
+      213: -3805416817270385695
+    second: image_123986672-removebg-preview (1)_501
+  - first:
+      213: -1266126329327367480
+    second: image_123986672-removebg-preview (1)_502
+  - first:
+      213: 289948160708627314
+    second: image_123986672-removebg-preview (1)_503
+  - first:
+      213: 7261695629752239479
+    second: image_123986672-removebg-preview (1)_504
+  - first:
+      213: 4643600161514032969
+    second: image_123986672-removebg-preview (1)_505
+  - first:
+      213: -6153848104690993253
+    second: image_123986672-removebg-preview (1)_506
+  - first:
+      213: -355213546209674850
+    second: image_123986672-removebg-preview (1)_507
+  - first:
+      213: -8717612078178619356
+    second: image_123986672-removebg-preview (1)_508
+  - first:
+      213: -3185844514948075500
+    second: image_123986672-removebg-preview (1)_509
+  - first:
+      213: 7081777919776064919
+    second: image_123986672-removebg-preview (1)_510
+  - first:
+      213: -6102227224061052939
+    second: image_123986672-removebg-preview (1)_511
+  - first:
+      213: 9100517140813938039
+    second: image_123986672-removebg-preview (1)_512
+  - first:
+      213: 871871413973017481
+    second: image_123986672-removebg-preview (1)_513
+  - first:
+      213: -6222658691990358192
+    second: image_123986672-removebg-preview (1)_514
+  - first:
+      213: 6556352061369490923
+    second: image_123986672-removebg-preview (1)_515
+  - first:
+      213: -1085231152583912090
+    second: image_123986672-removebg-preview (1)_516
+  - first:
+      213: 1902424679346382453
+    second: image_123986672-removebg-preview (1)_517
+  - first:
+      213: -7079067159665356850
+    second: image_123986672-removebg-preview (1)_518
+  - first:
+      213: -8638398212170100043
+    second: image_123986672-removebg-preview (1)_519
+  - first:
+      213: -1994170156309287525
+    second: image_123986672-removebg-preview (1)_520
+  - first:
+      213: 4936744000804949401
+    second: image_123986672-removebg-preview (1)_521
+  - first:
+      213: 8335184292252226902
+    second: image_123986672-removebg-preview (1)_522
+  - first:
+      213: 4330082122020678193
+    second: image_123986672-removebg-preview (1)_523
+  - first:
+      213: 8361631597557343702
+    second: image_123986672-removebg-preview (1)_524
+  - first:
+      213: 1172910911347835348
+    second: image_123986672-removebg-preview (1)_525
+  - first:
+      213: -2497022414450255993
+    second: image_123986672-removebg-preview (1)_526
+  - first:
+      213: -6135336515793099884
+    second: image_123986672-removebg-preview (1)_527
+  - first:
+      213: -1592882029925109239
+    second: image_123986672-removebg-preview (1)_528
+  - first:
+      213: 7832702872734368511
+    second: image_123986672-removebg-preview (1)_529
+  - first:
+      213: 5902591417987988529
+    second: image_123986672-removebg-preview (1)_530
+  - first:
+      213: -4313301926759686440
+    second: image_123986672-removebg-preview (1)_531
+  - first:
+      213: -5900199142857395708
+    second: image_123986672-removebg-preview (1)_532
+  - first:
+      213: -1069536977159704767
+    second: image_123986672-removebg-preview (1)_533
+  - first:
+      213: -2479324616848593412
+    second: image_123986672-removebg-preview (1)_534
+  - first:
+      213: 288778491188221244
+    second: image_123986672-removebg-preview (1)_535
+  - first:
+      213: 4926331972793918612
+    second: image_123986672-removebg-preview (1)_536
+  - first:
+      213: -4969535916742751709
+    second: image_123986672-removebg-preview (1)_537
+  - first:
+      213: -4435318268878474979
+    second: image_123986672-removebg-preview (1)_538
+  - first:
+      213: 7517309088637073105
+    second: image_123986672-removebg-preview (1)_539
+  - first:
+      213: -4836860070265019946
+    second: image_123986672-removebg-preview (1)_540
+  - first:
+      213: -6246898473432816693
+    second: image_123986672-removebg-preview (1)_541
+  - first:
+      213: 91567275330967327
+    second: image_123986672-removebg-preview (1)_542
+  - first:
+      213: -7256112465370934473
+    second: image_123986672-removebg-preview (1)_543
+  - first:
+      213: -7547524447245306293
+    second: image_123986672-removebg-preview (1)_544
+  - first:
+      213: 5272327031943386260
+    second: image_123986672-removebg-preview (1)_545
+  - first:
+      213: -255854234350246726
+    second: image_123986672-removebg-preview (1)_546
+  - first:
+      213: -6784470028676089601
+    second: image_123986672-removebg-preview (1)_547
+  - first:
+      213: 5272871392020108990
+    second: image_123986672-removebg-preview (1)_548
+  - first:
+      213: -1173874884644135748
+    second: image_123986672-removebg-preview (1)_549
+  - first:
+      213: 1199827126041008768
+    second: image_123986672-removebg-preview (1)_550
+  - first:
+      213: -1034139963756528813
+    second: image_123986672-removebg-preview (1)_551
+  - first:
+      213: 4736128987485012200
+    second: image_123986672-removebg-preview (1)_552
+  - first:
+      213: 3306990603472305613
+    second: image_123986672-removebg-preview (1)_553
+  - first:
+      213: -7607858435317261133
+    second: image_123986672-removebg-preview (1)_554
+  - first:
+      213: -3108310882943181943
+    second: image_123986672-removebg-preview (1)_555
+  - first:
+      213: -7626150985617353920
+    second: image_123986672-removebg-preview (1)_556
+  - first:
+      213: -6030837226808502585
+    second: image_123986672-removebg-preview (1)_557
+  - first:
+      213: 2858928615741933615
+    second: image_123986672-removebg-preview (1)_558
+  - first:
+      213: -8956428373798338424
+    second: image_123986672-removebg-preview (1)_559
+  - first:
+      213: 990577363642798045
+    second: image_123986672-removebg-preview (1)_560
+  - first:
+      213: 7289314920895379753
+    second: image_123986672-removebg-preview (1)_561
+  - first:
+      213: 1129469906726396890
+    second: image_123986672-removebg-preview (1)_562
+  - first:
+      213: 4661918035851760861
+    second: image_123986672-removebg-preview (1)_563
+  - first:
+      213: -2159052047068992548
+    second: image_123986672-removebg-preview (1)_564
+  - first:
+      213: 1327549543897698880
+    second: image_123986672-removebg-preview (1)_565
+  - first:
+      213: 4985724456532079701
+    second: image_123986672-removebg-preview (1)_566
+  - first:
+      213: 7498931203534359786
+    second: image_123986672-removebg-preview (1)_567
+  - first:
+      213: 8776186936407097942
+    second: image_123986672-removebg-preview (1)_568
+  - first:
+      213: -3480046729795928967
+    second: image_123986672-removebg-preview (1)_569
+  - first:
+      213: -6098608491677081712
+    second: image_123986672-removebg-preview (1)_570
+  - first:
+      213: -491098440731572397
+    second: image_123986672-removebg-preview (1)_571
+  - first:
+      213: 5146174348171172230
+    second: image_123986672-removebg-preview (1)_572
+  - first:
+      213: 1734509152737991252
+    second: image_123986672-removebg-preview (1)_573
+  - first:
+      213: 6252466654643661683
+    second: image_123986672-removebg-preview (1)_574
+  - first:
+      213: 4512591487293384876
+    second: image_123986672-removebg-preview (1)_575
+  - first:
+      213: 6994695156560665357
+    second: image_123986672-removebg-preview (1)_576
+  - first:
+      213: 4073333462576097851
+    second: image_123986672-removebg-preview (1)_577
+  - first:
+      213: 4330396280888299821
+    second: image_123986672-removebg-preview (1)_578
+  - first:
+      213: 797158848200233882
+    second: image_123986672-removebg-preview (1)_579
+  - first:
+      213: -2575617674030273379
+    second: image_123986672-removebg-preview (1)_580
+  - first:
+      213: 5587470052950385221
+    second: image_123986672-removebg-preview (1)_581
+  - first:
+      213: 5635278199733686322
+    second: image_123986672-removebg-preview (1)_582
+  - first:
+      213: -6074944325361799518
+    second: image_123986672-removebg-preview (1)_583
+  - first:
+      213: -4508149998349705212
+    second: image_123986672-removebg-preview (1)_584
+  - first:
+      213: 6359286092988407751
+    second: image_123986672-removebg-preview (1)_585
+  - first:
+      213: -9180103283605634508
+    second: image_123986672-removebg-preview (1)_586
+  - first:
+      213: 8964119848102282338
+    second: image_123986672-removebg-preview (1)_587
+  - first:
+      213: -1838938602629645959
+    second: image_123986672-removebg-preview (1)_588
+  - first:
+      213: 8760185174363070618
+    second: image_123986672-removebg-preview (1)_589
+  - first:
+      213: 4695255229360487311
+    second: image_123986672-removebg-preview (1)_590
+  - first:
+      213: 7584660628723347270
+    second: image_123986672-removebg-preview (1)_591
+  - first:
+      213: -5102561028368431647
+    second: image_123986672-removebg-preview (1)_592
+  - first:
+      213: 1681972527535355612
+    second: image_123986672-removebg-preview (1)_593
+  - first:
+      213: -5515392467329650652
+    second: image_123986672-removebg-preview (1)_594
+  - first:
+      213: 6873548057221935341
+    second: image_123986672-removebg-preview (1)_595
+  - first:
+      213: -7728730310606325371
+    second: image_123986672-removebg-preview (1)_596
+  - first:
+      213: 4408179887823450148
+    second: image_123986672-removebg-preview (1)_597
+  - first:
+      213: 4455893347985049596
+    second: image_123986672-removebg-preview (1)_598
+  - first:
+      213: -6989712237379583295
+    second: image_123986672-removebg-preview (1)_599
+  - first:
+      213: 6247794615228417489
+    second: image_123986672-removebg-preview (1)_600
+  - first:
+      213: -1471543857423227130
+    second: image_123986672-removebg-preview (1)_601
+  - first:
+      213: 4425422596424374206
+    second: image_123986672-removebg-preview (1)_602
+  - first:
+      213: 787023678016017532
+    second: image_123986672-removebg-preview (1)_603
+  - first:
+      213: 1474042104077012882
+    second: image_123986672-removebg-preview (1)_604
+  - first:
+      213: -162140401086013865
+    second: image_123986672-removebg-preview (1)_605
+  - first:
+      213: -5214743956875260280
+    second: image_123986672-removebg-preview (1)_606
+  - first:
+      213: -6788534171957308275
+    second: image_123986672-removebg-preview (1)_607
+  - first:
+      213: -5853366796759630029
+    second: image_123986672-removebg-preview (1)_608
+  - first:
+      213: 4023463178464789775
+    second: image_123986672-removebg-preview (1)_609
+  - first:
+      213: -3075042433007969176
+    second: image_123986672-removebg-preview (1)_610
+  - first:
+      213: 6312396096464585976
+    second: image_123986672-removebg-preview (1)_611
+  - first:
+      213: 3403251160200832957
+    second: image_123986672-removebg-preview (1)_612
+  - first:
+      213: -3212526141169794660
+    second: image_123986672-removebg-preview (1)_613
+  - first:
+      213: 5633724812162131432
+    second: image_123986672-removebg-preview (1)_614
+  - first:
+      213: 1462456933294464527
+    second: image_123986672-removebg-preview (1)_615
+  - first:
+      213: 8499428189320737813
+    second: image_123986672-removebg-preview (1)_616
+  - first:
+      213: -790919457125717511
+    second: image_123986672-removebg-preview (1)_617
+  - first:
+      213: -1033009889891656351
+    second: image_123986672-removebg-preview (1)_618
+  - first:
+      213: -628509186581047102
+    second: image_123986672-removebg-preview (1)_619
+  - first:
+      213: 8825916397285741055
+    second: image_123986672-removebg-preview (1)_620
+  - first:
+      213: 2706994903421674072
+    second: image_123986672-removebg-preview (1)_621
+  - first:
+      213: -8809262870116443328
+    second: image_123986672-removebg-preview (1)_622
+  - first:
+      213: -2003509693205040444
+    second: image_123986672-removebg-preview (1)_623
+  - first:
+      213: -6810248368349394230
+    second: image_123986672-removebg-preview (1)_624
+  - first:
+      213: 7664469119148490433
+    second: image_123986672-removebg-preview (1)_625
+  - first:
+      213: 9166013498026526195
+    second: image_123986672-removebg-preview (1)_626
+  - first:
+      213: 347435241404666492
+    second: image_123986672-removebg-preview (1)_627
+  - first:
+      213: -301797350162436106
+    second: image_123986672-removebg-preview (1)_628
+  - first:
+      213: -5388392333555463569
+    second: image_123986672-removebg-preview (1)_629
+  - first:
+      213: 1714884423022981805
+    second: image_123986672-removebg-preview (1)_630
+  - first:
+      213: 8345364837099445295
+    second: image_123986672-removebg-preview (1)_631
+  - first:
+      213: 6167486295905252088
+    second: image_123986672-removebg-preview (1)_632
+  - first:
+      213: 4444037990753276078
+    second: image_123986672-removebg-preview (1)_633
+  - first:
+      213: -8111408061359598285
+    second: image_123986672-removebg-preview (1)_634
+  - first:
+      213: -868721248619565367
+    second: image_123986672-removebg-preview (1)_635
+  - first:
+      213: -2888176201589529437
+    second: image_123986672-removebg-preview (1)_636
+  - first:
+      213: 7939340670845456535
+    second: image_123986672-removebg-preview (1)_637
+  - first:
+      213: -2654146074239310139
+    second: image_123986672-removebg-preview (1)_638
+  - first:
+      213: 3969419073291019241
+    second: image_123986672-removebg-preview (1)_639
+  - first:
+      213: 42705128509806367
+    second: image_123986672-removebg-preview (1)_640
+  - first:
+      213: -6042203075813848714
+    second: image_123986672-removebg-preview (1)_641
+  - first:
+      213: -4469364247325481825
+    second: image_123986672-removebg-preview (1)_642
+  - first:
+      213: 5729200940215263937
+    second: image_123986672-removebg-preview (1)_643
+  - first:
+      213: 7624297499674578729
+    second: image_123986672-removebg-preview (1)_644
+  - first:
+      213: -4345554368348556828
+    second: image_123986672-removebg-preview (1)_645
+  - first:
+      213: -8609550603948324341
+    second: image_123986672-removebg-preview (1)_646
+  - first:
+      213: -1826811679295907056
+    second: image_123986672-removebg-preview (1)_647
+  - first:
+      213: -3257822023836294389
+    second: image_123986672-removebg-preview (1)_648
+  - first:
+      213: -3689637864014444777
+    second: image_123986672-removebg-preview (1)_649
+  - first:
+      213: -1654111987134021266
+    second: image_123986672-removebg-preview (1)_650
+  - first:
+      213: 5114994374751106031
+    second: image_123986672-removebg-preview (1)_651
+  - first:
+      213: -300141624175128604
+    second: image_123986672-removebg-preview (1)_652
+  - first:
+      213: 1813310988968643123
+    second: image_123986672-removebg-preview (1)_653
+  - first:
+      213: 4966890702637608551
+    second: image_123986672-removebg-preview (1)_654
+  - first:
+      213: 905173810920739174
+    second: image_123986672-removebg-preview (1)_655
+  - first:
+      213: 3716930969367189325
+    second: image_123986672-removebg-preview (1)_656
+  - first:
+      213: 6873424499853136140
+    second: image_123986672-removebg-preview (1)_657
+  - first:
+      213: 950346070691398701
+    second: image_123986672-removebg-preview (1)_658
+  - first:
+      213: 8994882823333475880
+    second: image_123986672-removebg-preview (1)_659
+  - first:
+      213: 7718315186175881406
+    second: image_123986672-removebg-preview (1)_660
+  - first:
+      213: -2744017140165027837
+    second: image_123986672-removebg-preview (1)_661
+  - first:
+      213: 3381638980457132651
+    second: image_123986672-removebg-preview (1)_662
+  - first:
+      213: 615332756724384367
+    second: image_123986672-removebg-preview (1)_663
+  - first:
+      213: -2191656337384707161
+    second: image_123986672-removebg-preview (1)_664
+  - first:
+      213: -7560862688950514027
+    second: image_123986672-removebg-preview (1)_665
+  - first:
+      213: 4793540948601231337
+    second: image_123986672-removebg-preview (1)_666
+  - first:
+      213: 4932560609454810973
+    second: image_123986672-removebg-preview (1)_667
+  - first:
+      213: -1527791533156463403
+    second: image_123986672-removebg-preview (1)_668
+  - first:
+      213: -5390519639471880704
+    second: image_123986672-removebg-preview (1)_669
+  - first:
+      213: -6739444227718158368
+    second: image_123986672-removebg-preview (1)_670
+  - first:
+      213: 1288626070072457376
+    second: image_123986672-removebg-preview (1)_671
+  - first:
+      213: 4132749221606992828
+    second: image_123986672-removebg-preview (1)_672
+  - first:
+      213: -6438938232629872525
+    second: image_123986672-removebg-preview (1)_673
+  - first:
+      213: -3302381485652606463
+    second: image_123986672-removebg-preview (1)_674
+  - first:
+      213: -381624831529345695
+    second: image_123986672-removebg-preview (1)_675
+  - first:
+      213: -9123846027649842311
+    second: image_123986672-removebg-preview (1)_676
+  - first:
+      213: 6897742212214295340
+    second: image_123986672-removebg-preview (1)_677
+  - first:
+      213: -887874074469491261
+    second: image_123986672-removebg-preview (1)_678
+  - first:
+      213: 2858257365231197174
+    second: image_123986672-removebg-preview (1)_679
+  - first:
+      213: 249411272757491763
+    second: image_123986672-removebg-preview (1)_680
+  - first:
+      213: -7162450537698755941
+    second: image_123986672-removebg-preview (1)_681
+  - first:
+      213: -6900152364276223882
+    second: image_123986672-removebg-preview (1)_682
+  - first:
+      213: 4829091855067492501
+    second: image_123986672-removebg-preview (1)_683
+  - first:
+      213: -2109805030037235382
+    second: image_123986672-removebg-preview (1)_684
+  - first:
+      213: 479572925986145795
+    second: image_123986672-removebg-preview (1)_685
+  - first:
+      213: -3125543118681510571
+    second: image_123986672-removebg-preview (1)_686
+  - first:
+      213: 99033830677666460
+    second: image_123986672-removebg-preview (1)_687
+  - first:
+      213: 505511881001029572
+    second: image_123986672-removebg-preview (1)_688
+  - first:
+      213: 6946474104254080471
+    second: image_123986672-removebg-preview (1)_689
+  - first:
+      213: 3189344437195046817
+    second: image_123986672-removebg-preview (1)_690
+  - first:
+      213: -1792705316790624730
+    second: image_123986672-removebg-preview (1)_691
+  - first:
+      213: 6973136755135554982
+    second: image_123986672-removebg-preview (1)_692
+  - first:
+      213: 713785369484104093
+    second: image_123986672-removebg-preview (1)_693
+  - first:
+      213: -314228987495553001
+    second: image_123986672-removebg-preview (1)_694
+  - first:
+      213: 872908255726016636
+    second: image_123986672-removebg-preview (1)_695
+  - first:
+      213: -222298093131564183
+    second: image_123986672-removebg-preview (1)_696
+  - first:
+      213: -5528837337551546341
+    second: image_123986672-removebg-preview (1)_697
+  - first:
+      213: 1375529600179471686
+    second: image_123986672-removebg-preview (1)_698
+  - first:
+      213: 5575245255290604810
+    second: image_123986672-removebg-preview (1)_699
+  - first:
+      213: 1639897415174087331
+    second: image_123986672-removebg-preview (1)_700
+  - first:
+      213: -1512541395940717427
+    second: image_123986672-removebg-preview (1)_701
+  - first:
+      213: -2262141260414477475
+    second: image_123986672-removebg-preview (1)_702
+  - first:
+      213: 3415368384752481623
+    second: image_123986672-removebg-preview (1)_703
+  - first:
+      213: -7267549196378361285
+    second: image_123986672-removebg-preview (1)_704
+  - first:
+      213: 1387125618867123572
+    second: image_123986672-removebg-preview (1)_705
+  - first:
+      213: 4098274462539441434
+    second: image_123986672-removebg-preview (1)_706
+  - first:
+      213: 4036472338155089682
+    second: image_123986672-removebg-preview (1)_707
+  - first:
+      213: 729785212177533322
+    second: image_123986672-removebg-preview (1)_708
+  - first:
+      213: -4591699604430208845
+    second: image_123986672-removebg-preview (1)_709
+  - first:
+      213: 8344454244991476155
+    second: image_123986672-removebg-preview (1)_710
+  - first:
+      213: 1017864167249336279
+    second: image_123986672-removebg-preview (1)_711
+  - first:
+      213: 3555018462330678010
+    second: image_123986672-removebg-preview (1)_712
+  - first:
+      213: 3063190364763076221
+    second: image_123986672-removebg-preview (1)_713
+  - first:
+      213: 967751004592564696
+    second: image_123986672-removebg-preview (1)_714
+  - first:
+      213: 170431266276595307
+    second: image_123986672-removebg-preview (1)_715
+  - first:
+      213: -6937254100205560162
+    second: image_123986672-removebg-preview (1)_716
+  - first:
+      213: 6587358361270856976
+    second: image_123986672-removebg-preview (1)_717
+  - first:
+      213: -3282218821104339210
+    second: image_123986672-removebg-preview (1)_718
+  - first:
+      213: 4066419426095781696
+    second: image_123986672-removebg-preview (1)_719
+  - first:
+      213: -4233355557724865265
+    second: image_123986672-removebg-preview (1)_720
+  - first:
+      213: 2929391698964497250
+    second: image_123986672-removebg-preview (1)_721
+  - first:
+      213: 5403298029370481051
+    second: image_123986672-removebg-preview (1)_722
+  - first:
+      213: -8970022156189349154
+    second: image_123986672-removebg-preview (1)_723
+  - first:
+      213: -5156224037914121171
+    second: image_123986672-removebg-preview (1)_724
+  - first:
+      213: -5424384443616199371
+    second: image_123986672-removebg-preview (1)_725
+  - first:
+      213: -2015266876547006890
+    second: image_123986672-removebg-preview (1)_726
+  - first:
+      213: 9200981804114366472
+    second: image_123986672-removebg-preview (1)_727
+  - first:
+      213: -7934708569826227009
+    second: image_123986672-removebg-preview (1)_728
+  - first:
+      213: 8751670834798021158
+    second: image_123986672-removebg-preview (1)_729
+  - first:
+      213: -4915944257225235485
+    second: image_123986672-removebg-preview (1)_730
+  - first:
+      213: 4836949605315829868
+    second: image_123986672-removebg-preview (1)_731
+  - first:
+      213: -5724226203683850416
+    second: image_123986672-removebg-preview (1)_732
+  - first:
+      213: -5770454501991537867
+    second: image_123986672-removebg-preview (1)_733
+  - first:
+      213: -2612313516895871477
+    second: image_123986672-removebg-preview (1)_734
+  - first:
+      213: -2878105196034389390
+    second: image_123986672-removebg-preview (1)_735
+  - first:
+      213: -7707363031274229450
+    second: image_123986672-removebg-preview (1)_736
+  - first:
+      213: 407609299561357993
+    second: image_123986672-removebg-preview (1)_737
+  - first:
+      213: 2634619641030141261
+    second: image_123986672-removebg-preview (1)_738
+  - first:
+      213: 4730426005348570385
+    second: image_123986672-removebg-preview (1)_739
+  - first:
+      213: -8227069762481295690
+    second: image_123986672-removebg-preview (1)_740
+  - first:
+      213: -6669496845462383579
+    second: image_123986672-removebg-preview (1)_741
+  - first:
+      213: 2337723939992485508
+    second: image_123986672-removebg-preview (1)_742
+  - first:
+      213: 5938703413800920842
+    second: image_123986672-removebg-preview (1)_743
+  - first:
+      213: -6989840552964923939
+    second: image_123986672-removebg-preview (1)_744
+  - first:
+      213: 8819351894053064571
+    second: image_123986672-removebg-preview (1)_745
+  - first:
+      213: 2451571130770438457
+    second: image_123986672-removebg-preview (1)_746
+  - first:
+      213: -6530989824644980278
+    second: image_123986672-removebg-preview (1)_747
+  - first:
+      213: -4090284772849100048
+    second: image_123986672-removebg-preview (1)_748
+  - first:
+      213: -5676656616028148101
+    second: image_123986672-removebg-preview (1)_749
+  - first:
+      213: -9044226418207111106
+    second: image_123986672-removebg-preview (1)_750
+  - first:
+      213: 4844707819633480656
+    second: image_123986672-removebg-preview (1)_751
+  - first:
+      213: -2316442493919911747
+    second: image_123986672-removebg-preview (1)_752
+  - first:
+      213: 4326614588045901088
+    second: image_123986672-removebg-preview (1)_753
+  - first:
+      213: -665605030589539395
+    second: image_123986672-removebg-preview (1)_754
+  - first:
+      213: -7956334894824277339
+    second: image_123986672-removebg-preview (1)_755
+  - first:
+      213: -3737090311996897911
+    second: image_123986672-removebg-preview (1)_756
+  - first:
+      213: 1402516252457831193
+    second: image_123986672-removebg-preview (1)_757
+  - first:
+      213: 8997494112117751719
+    second: image_123986672-removebg-preview (1)_758
+  - first:
+      213: -4401233089664471191
+    second: image_123986672-removebg-preview (1)_759
+  - first:
+      213: 4917152136474639530
+    second: image_123986672-removebg-preview (1)_760
+  - first:
+      213: 16221086021659365
+    second: image_123986672-removebg-preview (1)_761
+  - first:
+      213: 406926793076147670
+    second: image_123986672-removebg-preview (1)_762
+  - first:
+      213: 5835501975336144260
+    second: image_123986672-removebg-preview (1)_763
+  - first:
+      213: -4894023453116879490
+    second: image_123986672-removebg-preview (1)_764
+  - first:
+      213: 3156925916741593543
+    second: image_123986672-removebg-preview (1)_765
+  - first:
+      213: -1982912820204900792
+    second: image_123986672-removebg-preview (1)_766
+  - first:
+      213: -1912907685936051483
+    second: image_123986672-removebg-preview (1)_767
+  - first:
+      213: -5056971448617972859
+    second: image_123986672-removebg-preview (1)_768
+  - first:
+      213: 1484704891856211930
+    second: image_123986672-removebg-preview (1)_769
+  - first:
+      213: 5706706126532531648
+    second: image_123986672-removebg-preview (1)_770
+  - first:
+      213: 692732261700936617
+    second: image_123986672-removebg-preview (1)_771
+  - first:
+      213: -8260125453447333947
+    second: image_123986672-removebg-preview (1)_772
+  - first:
+      213: -1815869478068474606
+    second: image_123986672-removebg-preview (1)_773
+  - first:
+      213: 3077272074437933094
+    second: image_123986672-removebg-preview (1)_774
+  - first:
+      213: -1629042970246258146
+    second: image_123986672-removebg-preview (1)_775
+  - first:
+      213: -4493188304028974840
+    second: image_123986672-removebg-preview (1)_776
+  - first:
+      213: -1362284817632070672
+    second: image_123986672-removebg-preview (1)_777
+  - first:
+      213: -4612062853041506767
+    second: image_123986672-removebg-preview (1)_778
+  - first:
+      213: -2662191487953036898
+    second: image_123986672-removebg-preview (1)_779
+  - first:
+      213: 8367941901613892318
+    second: image_123986672-removebg-preview (1)_780
+  - first:
+      213: -1699251580227583284
+    second: image_123986672-removebg-preview (1)_781
+  - first:
+      213: 6708709863934566130
+    second: image_123986672-removebg-preview (1)_782
+  - first:
+      213: -8464410906084108777
+    second: image_123986672-removebg-preview (1)_783
+  - first:
+      213: 3347691082551888809
+    second: image_123986672-removebg-preview (1)_784
+  - first:
+      213: 7970230382824301435
+    second: image_123986672-removebg-preview (1)_785
+  - first:
+      213: -9168441214666213802
+    second: image_123986672-removebg-preview (1)_786
+  - first:
+      213: -4074594032961926114
+    second: image_123986672-removebg-preview (1)_787
+  - first:
+      213: -3983739927195309678
+    second: image_123986672-removebg-preview (1)_788
+  - first:
+      213: -3255440221004548600
+    second: image_123986672-removebg-preview (1)_789
+  - first:
+      213: 6790634060607206513
+    second: image_123986672-removebg-preview (1)_790
+  - first:
+      213: -7134922931759352981
+    second: image_123986672-removebg-preview (1)_791
+  - first:
+      213: -5040384894671827262
+    second: image_123986672-removebg-preview (1)_792
+  - first:
+      213: 4397492306651480637
+    second: image_123986672-removebg-preview (1)_793
+  - first:
+      213: 5134740851616982991
+    second: image_123986672-removebg-preview (1)_794
+  - first:
+      213: -8982485239842503615
+    second: image_123986672-removebg-preview (1)_795
+  - first:
+      213: 2266742503644916884
+    second: image_123986672-removebg-preview (1)_796
+  - first:
+      213: 6170654289079123106
+    second: image_123986672-removebg-preview (1)_797
+  - first:
+      213: -5120462277253757547
+    second: image_123986672-removebg-preview (1)_798
+  - first:
+      213: 5738121865668590472
+    second: image_123986672-removebg-preview (1)_799
+  - first:
+      213: -6451735515849645521
+    second: image_123986672-removebg-preview (1)_800
+  - first:
+      213: -5574508575905787333
+    second: image_123986672-removebg-preview (1)_801
+  - first:
+      213: -1859344403398904219
+    second: image_123986672-removebg-preview (1)_802
+  - first:
+      213: 6355037179999017990
+    second: image_123986672-removebg-preview (1)_803
+  - first:
+      213: 247534777198723964
+    second: image_123986672-removebg-preview (1)_804
+  - first:
+      213: 8668848806573621929
+    second: image_123986672-removebg-preview (1)_805
+  - first:
+      213: -122044413350573621
+    second: image_123986672-removebg-preview (1)_806
+  - first:
+      213: -573988323551508233
+    second: image_123986672-removebg-preview (1)_807
+  - first:
+      213: -1828855563994221835
+    second: image_123986672-removebg-preview (1)_808
+  - first:
+      213: -8799655626175058055
+    second: image_123986672-removebg-preview (1)_809
+  - first:
+      213: -6630117297938897181
+    second: image_123986672-removebg-preview (1)_810
+  - first:
+      213: -2629249331301277759
+    second: image_123986672-removebg-preview (1)_811
+  - first:
+      213: 8298901996339999417
+    second: image_123986672-removebg-preview (1)_812
+  - first:
+      213: -1495584717111596159
+    second: image_123986672-removebg-preview (1)_813
+  - first:
+      213: 663035984476095252
+    second: image_123986672-removebg-preview (1)_814
+  - first:
+      213: 3058394085016603891
+    second: image_123986672-removebg-preview (1)_815
+  - first:
+      213: 8168968100807378134
+    second: image_123986672-removebg-preview (1)_816
+  - first:
+      213: 4148235578897871551
+    second: image_123986672-removebg-preview (1)_817
+  - first:
+      213: 4309669701538946573
+    second: image_123986672-removebg-preview (1)_818
+  - first:
+      213: 4784270071245453088
+    second: image_123986672-removebg-preview (1)_819
+  - first:
+      213: -7427909388938659603
+    second: image_123986672-removebg-preview (1)_820
+  - first:
+      213: -6201095219216132694
+    second: image_123986672-removebg-preview (1)_821
+  - first:
+      213: -3762870785544522957
+    second: image_123986672-removebg-preview (1)_822
+  - first:
+      213: 3473341598116649245
+    second: image_123986672-removebg-preview (1)_823
+  - first:
+      213: -8357778815279194626
+    second: image_123986672-removebg-preview (1)_824
+  - first:
+      213: 5290485487581416258
+    second: image_123986672-removebg-preview (1)_825
+  - first:
+      213: -1747181936672433908
+    second: image_123986672-removebg-preview (1)_826
+  - first:
+      213: -5238504609868396622
+    second: image_123986672-removebg-preview (1)_827
+  - first:
+      213: -6962075278655058652
+    second: image_123986672-removebg-preview (1)_828
+  - first:
+      213: -6357467954418739440
+    second: image_123986672-removebg-preview (1)_829
+  - first:
+      213: 1406317407048894219
+    second: image_123986672-removebg-preview (1)_830
+  - first:
+      213: 5080507374889976639
+    second: image_123986672-removebg-preview (1)_831
+  - first:
+      213: -7128461892469675440
+    second: image_123986672-removebg-preview (1)_832
+  - first:
+      213: -975706133007732276
+    second: image_123986672-removebg-preview (1)_833
+  - first:
+      213: 5955819257401995200
+    second: image_123986672-removebg-preview (1)_834
+  - first:
+      213: 6135640505929836522
+    second: image_123986672-removebg-preview (1)_835
+  - first:
+      213: -6160651512370969944
+    second: image_123986672-removebg-preview (1)_836
+  - first:
+      213: 6592779779197853635
+    second: image_123986672-removebg-preview (1)_837
+  - first:
+      213: -4317381968229200618
+    second: image_123986672-removebg-preview (1)_838
+  - first:
+      213: -4740490919929512654
+    second: image_123986672-removebg-preview (1)_839
+  - first:
+      213: 5170287312912314641
+    second: image_123986672-removebg-preview (1)_840
+  - first:
+      213: -5759171753919722886
+    second: image_123986672-removebg-preview (1)_841
+  - first:
+      213: 1374309099259048688
+    second: image_123986672-removebg-preview (1)_842
+  - first:
+      213: -1744431893484336694
+    second: image_123986672-removebg-preview (1)_843
+  - first:
+      213: -1124969170293839063
+    second: image_123986672-removebg-preview (1)_844
+  - first:
+      213: 5925135076020996683
+    second: image_123986672-removebg-preview (1)_845
+  - first:
+      213: 4569217644076760051
+    second: image_123986672-removebg-preview (1)_846
+  - first:
+      213: 3890568825460842712
+    second: image_123986672-removebg-preview (1)_847
+  - first:
+      213: -196708008577171792
+    second: image_123986672-removebg-preview (1)_848
+  - first:
+      213: 5577267759497317724
+    second: image_123986672-removebg-preview (1)_849
+  - first:
+      213: -1167678343339990166
+    second: image_123986672-removebg-preview (1)_850
+  - first:
+      213: -499178662671964886
+    second: image_123986672-removebg-preview (1)_851
+  - first:
+      213: -4491400222228756736
+    second: image_123986672-removebg-preview (1)_852
+  - first:
+      213: 4648162271656292017
+    second: image_123986672-removebg-preview (1)_853
+  - first:
+      213: -7668497263356320519
+    second: image_123986672-removebg-preview (1)_854
+  - first:
+      213: 6316131585011435745
+    second: image_123986672-removebg-preview (1)_855
+  - first:
+      213: 1498800682789400357
+    second: image_123986672-removebg-preview (1)_856
+  - first:
+      213: -1704196476250554190
+    second: image_123986672-removebg-preview (1)_857
+  - first:
+      213: -6409017189804659215
+    second: image_123986672-removebg-preview (1)_858
+  - first:
+      213: 2678857921556425707
+    second: image_123986672-removebg-preview (1)_859
+  - first:
+      213: -9131015644237579407
+    second: image_123986672-removebg-preview (1)_860
+  - first:
+      213: 5889531545286325572
+    second: image_123986672-removebg-preview (1)_861
+  - first:
+      213: 2571360426570642644
+    second: image_123986672-removebg-preview (1)_862
+  - first:
+      213: -9074394398970698578
+    second: image_123986672-removebg-preview (1)_863
+  - first:
+      213: 6271965085975167647
+    second: image_123986672-removebg-preview (1)_864
+  - first:
+      213: 57374393423795286
+    second: image_123986672-removebg-preview (1)_865
+  - first:
+      213: -4172061079127344228
+    second: image_123986672-removebg-preview (1)_866
+  - first:
+      213: 5119451589558371349
+    second: image_123986672-removebg-preview (1)_867
+  - first:
+      213: 7080572245641772983
+    second: image_123986672-removebg-preview (1)_868
+  - first:
+      213: -354702330881582808
+    second: image_123986672-removebg-preview (1)_869
+  - first:
+      213: -6656124034145172697
+    second: image_123986672-removebg-preview (1)_870
+  - first:
+      213: -5697882580502983034
+    second: image_123986672-removebg-preview (1)_871
+  - first:
+      213: 4518846320143730828
+    second: image_123986672-removebg-preview (1)_872
+  - first:
+      213: -1197480594611006622
+    second: image_123986672-removebg-preview (1)_873
+  - first:
+      213: -7250552864746661705
+    second: image_123986672-removebg-preview (1)_874
+  - first:
+      213: 4977839608394927866
+    second: image_123986672-removebg-preview (1)_875
+  - first:
+      213: 6521351185616352756
+    second: image_123986672-removebg-preview (1)_876
+  - first:
+      213: 6448227567164991654
+    second: image_123986672-removebg-preview (1)_877
+  - first:
+      213: 4088315711875838181
+    second: image_123986672-removebg-preview (1)_878
+  - first:
+      213: 3264223726327129736
+    second: image_123986672-removebg-preview (1)_879
+  - first:
+      213: 2450560716470248151
+    second: image_123986672-removebg-preview (1)_880
+  - first:
+      213: 1009064885262856023
+    second: image_123986672-removebg-preview (1)_881
+  - first:
+      213: -335201431114216663
+    second: image_123986672-removebg-preview (1)_882
+  - first:
+      213: 4295334987468081214
+    second: image_123986672-removebg-preview (1)_883
+  - first:
+      213: -6008451056421169013
+    second: image_123986672-removebg-preview (1)_884
+  - first:
+      213: -309701622117137992
+    second: image_123986672-removebg-preview (1)_885
+  - first:
+      213: -2240771570364032578
+    second: image_123986672-removebg-preview (1)_886
+  - first:
+      213: -6270044669050523401
+    second: image_123986672-removebg-preview (1)_887
+  - first:
+      213: 820146963436740286
+    second: image_123986672-removebg-preview (1)_888
+  - first:
+      213: -462601178612919321
+    second: image_123986672-removebg-preview (1)_889
+  - first:
+      213: 7427037774995874610
+    second: image_123986672-removebg-preview (1)_890
+  - first:
+      213: -8409720383295548261
+    second: image_123986672-removebg-preview (1)_891
+  - first:
+      213: 3499756858270168457
+    second: image_123986672-removebg-preview (1)_892
+  - first:
+      213: -544006841041687202
+    second: image_123986672-removebg-preview (1)_893
+  - first:
+      213: -6899216170240402093
+    second: image_123986672-removebg-preview (1)_894
+  - first:
+      213: 6793396665928805408
+    second: image_123986672-removebg-preview (1)_895
+  - first:
+      213: 2960997943110456120
+    second: image_123986672-removebg-preview (1)_896
+  - first:
+      213: -2411547486394044160
+    second: image_123986672-removebg-preview (1)_897
+  - first:
+      213: 1410631683138870495
+    second: image_123986672-removebg-preview (1)_898
+  - first:
+      213: -7362397097778556580
+    second: image_123986672-removebg-preview (1)_899
+  - first:
+      213: 148513280001799842
+    second: image_123986672-removebg-preview (1)_900
+  - first:
+      213: -7735943788175260153
+    second: image_123986672-removebg-preview (1)_901
+  - first:
+      213: -2184369314360234482
+    second: image_123986672-removebg-preview (1)_902
+  - first:
+      213: -1403381136629292396
+    second: image_123986672-removebg-preview (1)_903
+  - first:
+      213: -8991858691896292701
+    second: image_123986672-removebg-preview (1)_904
+  - first:
+      213: 3116685651140833823
+    second: image_123986672-removebg-preview (1)_905
+  - first:
+      213: -7568766200684380837
+    second: image_123986672-removebg-preview (1)_906
+  - first:
+      213: -7019988001392666831
+    second: image_123986672-removebg-preview (1)_907
+  - first:
+      213: 5271545582742799737
+    second: image_123986672-removebg-preview (1)_908
+  - first:
+      213: -1358398407436516488
+    second: image_123986672-removebg-preview (1)_909
+  - first:
+      213: -3248573961434555431
+    second: image_123986672-removebg-preview (1)_910
+  - first:
+      213: -1015855718554929991
+    second: image_123986672-removebg-preview (1)_911
+  - first:
+      213: 964713118341309761
+    second: image_123986672-removebg-preview (1)_912
+  - first:
+      213: 1891879204961511099
+    second: image_123986672-removebg-preview (1)_913
+  - first:
+      213: -1045086786203332097
+    second: image_123986672-removebg-preview (1)_914
+  - first:
+      213: 7912017520007399265
+    second: image_123986672-removebg-preview (1)_915
+  - first:
+      213: 7664017940691443728
+    second: image_123986672-removebg-preview (1)_916
+  - first:
+      213: 8233300911031155533
+    second: image_123986672-removebg-preview (1)_917
+  - first:
+      213: -8212438044089249412
+    second: image_123986672-removebg-preview (1)_918
+  - first:
+      213: -1778307875051358334
+    second: image_123986672-removebg-preview (1)_919
+  - first:
+      213: 8978664027441876232
+    second: image_123986672-removebg-preview (1)_920
+  - first:
+      213: -6719606623449267558
+    second: image_123986672-removebg-preview (1)_921
+  - first:
+      213: -1163243893108860053
+    second: image_123986672-removebg-preview (1)_922
+  - first:
+      213: -6040270144572087203
+    second: image_123986672-removebg-preview (1)_923
+  - first:
+      213: 1742890866816133327
+    second: image_123986672-removebg-preview (1)_924
+  - first:
+      213: 1681773567914566625
+    second: image_123986672-removebg-preview (1)_925
+  - first:
+      213: 5832231723928200289
+    second: image_123986672-removebg-preview (1)_926
+  - first:
+      213: 6586910862332803760
+    second: image_123986672-removebg-preview (1)_927
+  - first:
+      213: 2753467397421881764
+    second: image_123986672-removebg-preview (1)_928
+  - first:
+      213: 1381545559624443326
+    second: image_123986672-removebg-preview (1)_929
+  - first:
+      213: -8883615595436417131
+    second: image_123986672-removebg-preview (1)_930
+  - first:
+      213: -7101645113523201871
+    second: image_123986672-removebg-preview (1)_931
+  - first:
+      213: -2664087924811659472
+    second: image_123986672-removebg-preview (1)_932
+  - first:
+      213: 4875697006063879108
+    second: image_123986672-removebg-preview (1)_933
+  - first:
+      213: -102248460229940105
+    second: image_123986672-removebg-preview (1)_934
+  - first:
+      213: -3688393457987295344
+    second: image_123986672-removebg-preview (1)_935
+  - first:
+      213: -2149116220862887654
+    second: image_123986672-removebg-preview (1)_936
+  - first:
+      213: 2862457563257578826
+    second: image_123986672-removebg-preview (1)_937
+  - first:
+      213: 3287663689590343770
+    second: image_123986672-removebg-preview (1)_938
+  - first:
+      213: -697857364346139518
+    second: image_123986672-removebg-preview (1)_939
+  - first:
+      213: 9092534546047685356
+    second: image_123986672-removebg-preview (1)_940
+  - first:
+      213: 3819032095174937159
+    second: image_123986672-removebg-preview (1)_941
+  - first:
+      213: -4980156706615305575
+    second: image_123986672-removebg-preview (1)_942
+  - first:
+      213: -650276416791671828
+    second: image_123986672-removebg-preview (1)_943
+  - first:
+      213: 5078670681200013149
+    second: image_123986672-removebg-preview (1)_944
+  - first:
+      213: -3594810891465144784
+    second: image_123986672-removebg-preview (1)_945
+  - first:
+      213: -4808858209413141030
+    second: image_123986672-removebg-preview (1)_946
+  - first:
+      213: -9027568070899489162
+    second: image_123986672-removebg-preview (1)_947
+  - first:
+      213: -2920812814417900636
+    second: image_123986672-removebg-preview (1)_948
+  - first:
+      213: -2992330657387442175
+    second: image_123986672-removebg-preview (1)_949
+  - first:
+      213: -4621065328630035819
+    second: image_123986672-removebg-preview (1)_950
+  - first:
+      213: -9166502816337125258
+    second: image_123986672-removebg-preview (1)_951
+  - first:
+      213: 981356583236568417
+    second: image_123986672-removebg-preview (1)_952
+  - first:
+      213: 2706720101925718302
+    second: image_123986672-removebg-preview (1)_953
+  - first:
+      213: -6821945911821769623
+    second: image_123986672-removebg-preview (1)_954
+  - first:
+      213: -3712665081524601416
+    second: image_123986672-removebg-preview (1)_955
+  - first:
+      213: 1108356543658882851
+    second: image_123986672-removebg-preview (1)_956
+  - first:
+      213: 3634026950554245558
+    second: image_123986672-removebg-preview (1)_957
+  - first:
+      213: 3574725512680898139
+    second: image_123986672-removebg-preview (1)_958
+  - first:
+      213: -6291769682599611022
+    second: image_123986672-removebg-preview (1)_959
+  - first:
+      213: -8340327707245895626
+    second: image_123986672-removebg-preview (1)_960
+  - first:
+      213: 2006848247261896373
+    second: image_123986672-removebg-preview (1)_961
+  - first:
+      213: -2895545000729618532
+    second: image_123986672-removebg-preview (1)_962
+  - first:
+      213: 1398938006793455098
+    second: image_123986672-removebg-preview (1)_963
+  - first:
+      213: 638106231786612264
+    second: image_123986672-removebg-preview (1)_964
+  - first:
+      213: 3282539304701419687
+    second: image_123986672-removebg-preview (1)_965
+  - first:
+      213: 1218623231611122188
+    second: image_123986672-removebg-preview (1)_966
+  - first:
+      213: 5290978686138279335
+    second: image_123986672-removebg-preview (1)_967
+  - first:
+      213: 2031605596258292117
+    second: image_123986672-removebg-preview (1)_968
+  - first:
+      213: 8353579032409627287
+    second: image_123986672-removebg-preview (1)_969
+  - first:
+      213: 7405470941712472536
+    second: image_123986672-removebg-preview (1)_970
+  - first:
+      213: 5283443537810824629
+    second: image_123986672-removebg-preview (1)_971
+  - first:
+      213: 5363623620169296913
+    second: image_123986672-removebg-preview (1)_972
+  - first:
+      213: -4820410258402748673
+    second: image_123986672-removebg-preview (1)_973
+  - first:
+      213: 1592015957101987961
+    second: image_123986672-removebg-preview (1)_974
+  - first:
+      213: -1785740169591420839
+    second: image_123986672-removebg-preview (1)_975
+  - first:
+      213: -4586359993269407453
+    second: image_123986672-removebg-preview (1)_976
+  - first:
+      213: -5412710429536954817
+    second: image_123986672-removebg-preview (1)_977
+  - first:
+      213: -6721351927636511393
+    second: image_123986672-removebg-preview (1)_978
+  - first:
+      213: 2444770415050076944
+    second: image_123986672-removebg-preview (1)_979
+  - first:
+      213: 7183864771326538918
+    second: image_123986672-removebg-preview (1)_980
+  - first:
+      213: -2445195866306201533
+    second: image_123986672-removebg-preview (1)_981
+  - first:
+      213: -2678468620389485912
+    second: image_123986672-removebg-preview (1)_982
+  - first:
+      213: -1097553813219584878
+    second: image_123986672-removebg-preview (1)_983
+  - first:
+      213: -3952475323001719365
+    second: image_123986672-removebg-preview (1)_984
+  - first:
+      213: -8872179659437060394
+    second: image_123986672-removebg-preview (1)_985
+  - first:
+      213: 8686372662277151848
+    second: image_123986672-removebg-preview (1)_986
+  - first:
+      213: 3213665671648123526
+    second: image_123986672-removebg-preview (1)_987
+  - first:
+      213: 4703039967208644794
+    second: image_123986672-removebg-preview (1)_988
+  - first:
+      213: 4437526419188529619
+    second: image_123986672-removebg-preview (1)_989
+  - first:
+      213: -367716257683088219
+    second: image_123986672-removebg-preview (1)_990
+  - first:
+      213: -3238860080692735475
+    second: image_123986672-removebg-preview (1)_991
+  - first:
+      213: -3711238772024541736
+    second: image_123986672-removebg-preview (1)_992
+  - first:
+      213: 7938239878107258088
+    second: image_123986672-removebg-preview (1)_993
+  - first:
+      213: 3614920437767612636
+    second: image_123986672-removebg-preview (1)_994
+  - first:
+      213: -5012104287177940319
+    second: image_123986672-removebg-preview (1)_995
+  - first:
+      213: -3427660213316881392
+    second: image_123986672-removebg-preview (1)_996
+  - first:
+      213: 789780072003592400
+    second: image_123986672-removebg-preview (1)_997
+  - first:
+      213: -848601843643918885
+    second: image_123986672-removebg-preview (1)_998
+  - first:
+      213: 2408471093836139679
+    second: image_123986672-removebg-preview (1)_999
+  - first:
+      213: 8619055621027322808
+    second: image_123986672-removebg-preview (1)_1000
+  - first:
+      213: -2150430271771847904
+    second: image_123986672-removebg-preview (1)_1001
+  - first:
+      213: -1409890025277071532
+    second: image_123986672-removebg-preview (1)_1002
+  - first:
+      213: 2115467540355902398
+    second: image_123986672-removebg-preview (1)_1003
+  - first:
+      213: 4091509605897148607
+    second: image_123986672-removebg-preview (1)_1004
+  - first:
+      213: -2842108786315134539
+    second: image_123986672-removebg-preview (1)_1005
+  - first:
+      213: -4093466831068360931
+    second: image_123986672-removebg-preview (1)_1006
+  - first:
+      213: 4771853165882495846
+    second: image_123986672-removebg-preview (1)_1007
+  - first:
+      213: 7985700379041442818
+    second: image_123986672-removebg-preview (1)_1008
+  - first:
+      213: 5614725430939378830
+    second: image_123986672-removebg-preview (1)_1009
+  - first:
+      213: 5940846781508005296
+    second: image_123986672-removebg-preview (1)_1010
+  - first:
+      213: 4948952370993896677
+    second: image_123986672-removebg-preview (1)_1011
+  - first:
+      213: -6611968515477617510
+    second: image_123986672-removebg-preview (1)_1012
+  - first:
+      213: 6646576901919542995
+    second: image_123986672-removebg-preview (1)_1013
+  - first:
+      213: -6273166424600540227
+    second: image_123986672-removebg-preview (1)_1014
+  - first:
+      213: -7376175539971805268
+    second: image_123986672-removebg-preview (1)_1015
+  - first:
+      213: -1618854521399747411
+    second: image_123986672-removebg-preview (1)_1016
+  - first:
+      213: -8208197215539306852
+    second: image_123986672-removebg-preview (1)_1017
+  - first:
+      213: -1465282539594678150
+    second: image_123986672-removebg-preview (1)_1018
+  - first:
+      213: -9147969986304330308
+    second: image_123986672-removebg-preview (1)_1019
+  - first:
+      213: 4251998592143714218
+    second: image_123986672-removebg-preview (1)_1020
+  - first:
+      213: -934855544191142145
+    second: image_123986672-removebg-preview (1)_1021
+  - first:
+      213: 2919546646989321890
+    second: image_123986672-removebg-preview (1)_1022
+  - first:
+      213: 7887103718437943225
+    second: image_123986672-removebg-preview (1)_1023
+  - first:
+      213: 7417256172809676817
+    second: image_123986672-removebg-preview (1)_1024
+  - first:
+      213: 7408773927880975043
+    second: image_123986672-removebg-preview (1)_1025
+  - first:
+      213: 9043570132732851064
+    second: image_123986672-removebg-preview (1)_1026
+  - first:
+      213: 3815867141267309569
+    second: image_123986672-removebg-preview (1)_1027
+  - first:
+      213: -739880932620580233
+    second: image_123986672-removebg-preview (1)_1028
+  - first:
+      213: 5692058881069464837
+    second: image_123986672-removebg-preview (1)_1029
+  - first:
+      213: 2301890257897372353
+    second: image_123986672-removebg-preview (1)_1030
+  - first:
+      213: 9035654421946119662
+    second: image_123986672-removebg-preview (1)_1031
+  - first:
+      213: -8425583353300389816
+    second: image_123986672-removebg-preview (1)_1032
+  - first:
+      213: -1666063919372429374
+    second: image_123986672-removebg-preview (1)_1033
+  - first:
+      213: 4469616552024741060
+    second: image_123986672-removebg-preview (1)_1034
+  - first:
+      213: 3717921239380777825
+    second: image_123986672-removebg-preview (1)_1035
+  - first:
+      213: 5583236159147441484
+    second: image_123986672-removebg-preview (1)_1036
+  - first:
+      213: 5138532403787043969
+    second: image_123986672-removebg-preview (1)_1037
+  - first:
+      213: -7920562793180278604
+    second: image_123986672-removebg-preview (1)_1038
+  - first:
+      213: -4535796907244210205
+    second: image_123986672-removebg-preview (1)_1039
+  - first:
+      213: -1913328047710408011
+    second: image_123986672-removebg-preview (1)_1040
+  - first:
+      213: 6461089605041099816
+    second: image_123986672-removebg-preview (1)_1041
+  - first:
+      213: -2268853557946812812
+    second: image_123986672-removebg-preview (1)_1042
+  - first:
+      213: 3850104800860551807
+    second: image_123986672-removebg-preview (1)_1043
+  - first:
+      213: 767735980835283616
+    second: image_123986672-removebg-preview (1)_1044
+  - first:
+      213: -3416119191214802240
+    second: image_123986672-removebg-preview (1)_1045
+  - first:
+      213: -6817237746326219114
+    second: image_123986672-removebg-preview (1)_1046
+  - first:
+      213: -4193840484546552280
+    second: image_123986672-removebg-preview (1)_1047
+  - first:
+      213: 666875534448871294
+    second: image_123986672-removebg-preview (1)_1048
+  - first:
+      213: 7593250255973687659
+    second: image_123986672-removebg-preview (1)_1049
+  - first:
+      213: 6947636082463324776
+    second: image_123986672-removebg-preview (1)_1050
+  - first:
+      213: -1401030141804493097
+    second: image_123986672-removebg-preview (1)_1051
+  - first:
+      213: 7377150722124289489
+    second: image_123986672-removebg-preview (1)_1052
+  - first:
+      213: -8776449550190022253
+    second: image_123986672-removebg-preview (1)_1053
+  - first:
+      213: 8820213073883684702
+    second: image_123986672-removebg-preview (1)_1054
+  - first:
+      213: -8948955888393930625
+    second: image_123986672-removebg-preview (1)_1055
+  - first:
+      213: -4286786496991116343
+    second: image_123986672-removebg-preview (1)_1056
+  - first:
+      213: 833304786167572290
+    second: image_123986672-removebg-preview (1)_1057
+  - first:
+      213: -8609613186020699543
+    second: image_123986672-removebg-preview (1)_1058
+  - first:
+      213: -3674888602836753516
+    second: image_123986672-removebg-preview (1)_1059
+  - first:
+      213: -2297768111389774950
+    second: image_123986672-removebg-preview (1)_1060
+  - first:
+      213: -3044178314500783519
+    second: image_123986672-removebg-preview (1)_1061
+  - first:
+      213: 434763960794228110
+    second: image_123986672-removebg-preview (1)_1062
+  - first:
+      213: -3043710946562039725
+    second: image_123986672-removebg-preview (1)_1063
+  - first:
+      213: 4982628559298370014
+    second: image_123986672-removebg-preview (1)_1064
+  - first:
+      213: 8016509785332118158
+    second: image_123986672-removebg-preview (1)_1065
+  - first:
+      213: 1944424947944743814
+    second: image_123986672-removebg-preview (1)_1066
+  - first:
+      213: -7352165015704393995
+    second: image_123986672-removebg-preview (1)_1067
+  - first:
+      213: 8445640147001834925
+    second: image_123986672-removebg-preview (1)_1068
+  - first:
+      213: -2784983038334234180
+    second: image_123986672-removebg-preview (1)_1069
+  - first:
+      213: -1365406564814081431
+    second: image_123986672-removebg-preview (1)_1070
+  - first:
+      213: 2427913137300362976
+    second: image_123986672-removebg-preview (1)_1071
+  - first:
+      213: -2399153717211109002
+    second: image_123986672-removebg-preview (1)_1072
+  - first:
+      213: 467669117383569168
+    second: image_123986672-removebg-preview (1)_1073
+  - first:
+      213: -7036187769483336526
+    second: image_123986672-removebg-preview (1)_1074
+  - first:
+      213: -6058255136758842212
+    second: image_123986672-removebg-preview (1)_1075
+  - first:
+      213: 6727566046000933349
+    second: image_123986672-removebg-preview (1)_1076
+  - first:
+      213: -4750223673062468444
+    second: image_123986672-removebg-preview (1)_1077
+  - first:
+      213: 5351831086366945612
+    second: image_123986672-removebg-preview (1)_1078
+  - first:
+      213: -1355169948110416716
+    second: image_123986672-removebg-preview (1)_1079
+  - first:
+      213: 7110720289516350819
+    second: image_123986672-removebg-preview (1)_1080
+  - first:
+      213: -2640202677560171846
+    second: image_123986672-removebg-preview (1)_1081
+  - first:
+      213: 3454696074575708673
+    second: image_123986672-removebg-preview (1)_1082
+  - first:
+      213: 5203892477258090029
+    second: image_123986672-removebg-preview (1)_1083
+  - first:
+      213: -1110964754073608466
+    second: image_123986672-removebg-preview (1)_1084
+  - first:
+      213: 3160752085915897295
+    second: image_123986672-removebg-preview (1)_1085
+  - first:
+      213: -3883357821804059418
+    second: image_123986672-removebg-preview (1)_1086
+  - first:
+      213: 9138039811693183114
+    second: image_123986672-removebg-preview (1)_1087
+  - first:
+      213: -1964824949241939125
+    second: image_123986672-removebg-preview (1)_1088
+  - first:
+      213: -5149099014706824508
+    second: image_123986672-removebg-preview (1)_1089
+  - first:
+      213: 170587403449161122
+    second: image_123986672-removebg-preview (1)_1090
+  - first:
+      213: 7338566733557587143
+    second: image_123986672-removebg-preview (1)_1091
+  - first:
+      213: -6832785158096248179
+    second: image_123986672-removebg-preview (1)_1092
+  - first:
+      213: -1871987255179195352
+    second: image_123986672-removebg-preview (1)_1093
+  - first:
+      213: 6586158566338132948
+    second: image_123986672-removebg-preview (1)_1094
+  - first:
+      213: 3887991505444450268
+    second: image_123986672-removebg-preview (1)_1095
+  - first:
+      213: 7756600468031360208
+    second: image_123986672-removebg-preview (1)_1096
+  - first:
+      213: -944261428900639799
+    second: image_123986672-removebg-preview (1)_1097
+  - first:
+      213: 4538339367757858436
+    second: image_123986672-removebg-preview (1)_1098
+  - first:
+      213: 6032061238752501140
+    second: image_123986672-removebg-preview (1)_1099
+  - first:
+      213: 781460385208969055
+    second: image_123986672-removebg-preview (1)_1100
+  - first:
+      213: 1390116216685127301
+    second: image_123986672-removebg-preview (1)_1101
+  - first:
+      213: -1312374528762327380
+    second: image_123986672-removebg-preview (1)_1102
+  - first:
+      213: -7794188692857924391
+    second: image_123986672-removebg-preview (1)_1103
+  - first:
+      213: -4822701677981725318
+    second: image_123986672-removebg-preview (1)_1104
+  - first:
+      213: -6258024828740009661
+    second: image_123986672-removebg-preview (1)_1105
+  - first:
+      213: 3454423771919561341
+    second: image_123986672-removebg-preview (1)_1106
+  - first:
+      213: -886740576844379557
+    second: image_123986672-removebg-preview (1)_1107
+  - first:
+      213: -5226993757948122739
+    second: image_123986672-removebg-preview (1)_1108
+  - first:
+      213: -6702240649831959924
+    second: image_123986672-removebg-preview (1)_1109
+  - first:
+      213: 5578221973993187957
+    second: image_123986672-removebg-preview (1)_1110
+  - first:
+      213: -914682602955569631
+    second: image_123986672-removebg-preview (1)_1111
+  - first:
+      213: 2838776664012122498
+    second: image_123986672-removebg-preview (1)_1112
+  - first:
+      213: -5463435721480219235
+    second: image_123986672-removebg-preview (1)_1113
+  - first:
+      213: 4631499880803574593
+    second: image_123986672-removebg-preview (1)_1114
+  - first:
+      213: -6354626087697536953
+    second: image_123986672-removebg-preview (1)_1115
+  - first:
+      213: -427697181538475894
+    second: image_123986672-removebg-preview (1)_1116
+  - first:
+      213: 4835872191277478591
+    second: image_123986672-removebg-preview (1)_1117
+  - first:
+      213: -6256272364120749337
+    second: image_123986672-removebg-preview (1)_1118
+  - first:
+      213: 4632775061428724493
+    second: image_123986672-removebg-preview (1)_1119
+  - first:
+      213: 8262170197231443385
+    second: image_123986672-removebg-preview (1)_1120
+  - first:
+      213: -2663688474680979171
+    second: image_123986672-removebg-preview (1)_1121
+  - first:
+      213: 9186096273344961591
+    second: image_123986672-removebg-preview (1)_1122
+  - first:
+      213: 4415672734210944705
+    second: image_123986672-removebg-preview (1)_1123
+  - first:
+      213: -6568096401319382590
+    second: image_123986672-removebg-preview (1)_1124
+  - first:
+      213: -4421116134887808525
+    second: image_123986672-removebg-preview (1)_1125
+  - first:
+      213: -7323742147729570098
+    second: image_123986672-removebg-preview (1)_1126
+  - first:
+      213: 4399206645542243834
+    second: image_123986672-removebg-preview (1)_1127
+  - first:
+      213: 5177573023229321215
+    second: image_123986672-removebg-preview (1)_1128
+  - first:
+      213: -4344913674768998827
+    second: image_123986672-removebg-preview (1)_1129
+  - first:
+      213: -4225112837869510273
+    second: image_123986672-removebg-preview (1)_1130
+  - first:
+      213: -3817081190305593841
+    second: image_123986672-removebg-preview (1)_1131
+  - first:
+      213: -1175632614418020498
+    second: image_123986672-removebg-preview (1)_1132
+  - first:
+      213: 7639249429901046586
+    second: image_123986672-removebg-preview (1)_1133
+  - first:
+      213: -813209970656935007
+    second: image_123986672-removebg-preview (1)_1134
+  - first:
+      213: 6975989516997173589
+    second: image_123986672-removebg-preview (1)_1135
+  - first:
+      213: -7314001135983858481
+    second: image_123986672-removebg-preview (1)_1136
+  - first:
+      213: 5776981425284265189
+    second: image_123986672-removebg-preview (1)_1137
+  - first:
+      213: 7892080233625137016
+    second: image_123986672-removebg-preview (1)_1138
+  - first:
+      213: -8754576487683382913
+    second: image_123986672-removebg-preview (1)_1139
+  - first:
+      213: -8246734585548555353
+    second: image_123986672-removebg-preview (1)_1140
+  - first:
+      213: -91445184737853377
+    second: image_123986672-removebg-preview (1)_1141
+  - first:
+      213: -7105827166541975673
+    second: image_123986672-removebg-preview (1)_1142
+  - first:
+      213: 8084371529227039248
+    second: image_123986672-removebg-preview (1)_1143
+  - first:
+      213: -6589600588585305686
+    second: image_123986672-removebg-preview (1)_1144
+  - first:
+      213: 2951646594524748254
+    second: image_123986672-removebg-preview (1)_1145
+  - first:
+      213: -1842461010477874385
+    second: image_123986672-removebg-preview (1)_1146
+  - first:
+      213: 8946632331421845633
+    second: image_123986672-removebg-preview (1)_1147
+  - first:
+      213: 2293782834187157783
+    second: image_123986672-removebg-preview (1)_1148
+  - first:
+      213: 2537159069998711187
+    second: image_123986672-removebg-preview (1)_1149
+  - first:
+      213: -4345549188010158192
+    second: image_123986672-removebg-preview (1)_1150
+  - first:
+      213: -4537238197031932210
+    second: image_123986672-removebg-preview (1)_1151
+  - first:
+      213: -6216585803663128082
+    second: image_123986672-removebg-preview (1)_1152
+  - first:
+      213: -4734204481455630241
+    second: image_123986672-removebg-preview (1)_1153
+  - first:
+      213: 7067360956536709452
+    second: image_123986672-removebg-preview (1)_1154
+  - first:
+      213: -6517285735020501547
+    second: image_123986672-removebg-preview (1)_1155
+  - first:
+      213: 4872504678110216015
+    second: image_123986672-removebg-preview (1)_1156
+  - first:
+      213: -7323325097324714060
+    second: image_123986672-removebg-preview (1)_1157
+  - first:
+      213: -4030668475056875668
+    second: image_123986672-removebg-preview (1)_1158
+  - first:
+      213: -1459488654752906307
+    second: image_123986672-removebg-preview (1)_1159
+  - first:
+      213: 908559073644437938
+    second: image_123986672-removebg-preview (1)_1160
+  - first:
+      213: -8013173309343038164
+    second: image_123986672-removebg-preview (1)_1161
+  - first:
+      213: 5418218389954892859
+    second: image_123986672-removebg-preview (1)_1162
+  - first:
+      213: -7262127855647217593
+    second: image_123986672-removebg-preview (1)_1163
+  - first:
+      213: 1939816247336367806
+    second: image_123986672-removebg-preview (1)_1164
+  - first:
+      213: -2518141080375893964
+    second: image_123986672-removebg-preview (1)_1165
+  - first:
+      213: -2348403667125710363
+    second: image_123986672-removebg-preview (1)_1166
+  - first:
+      213: 1526648987163976227
+    second: image_123986672-removebg-preview (1)_1167
+  - first:
+      213: -5331884499949185490
+    second: image_123986672-removebg-preview (1)_1168
+  - first:
+      213: 4306749584722717142
+    second: image_123986672-removebg-preview (1)_1169
+  - first:
+      213: -7258414197002931609
+    second: image_123986672-removebg-preview (1)_1170
+  - first:
+      213: 1192468392588321582
+    second: image_123986672-removebg-preview (1)_1171
+  - first:
+      213: -2859513615423101304
+    second: image_123986672-removebg-preview (1)_1172
+  - first:
+      213: -3545707547836685614
+    second: image_123986672-removebg-preview (1)_1173
+  - first:
+      213: 6473271234976648560
+    second: image_123986672-removebg-preview (1)_1174
+  - first:
+      213: 7398751832611176073
+    second: image_123986672-removebg-preview (1)_1175
+  - first:
+      213: -1731380559479565859
+    second: image_123986672-removebg-preview (1)_1176
+  - first:
+      213: 7065081714233327117
+    second: image_123986672-removebg-preview (1)_1177
+  - first:
+      213: 5756566389666727536
+    second: image_123986672-removebg-preview (1)_1178
+  - first:
+      213: 8621041790454664182
+    second: image_123986672-removebg-preview (1)_1179
+  - first:
+      213: -4280161421064391806
+    second: image_123986672-removebg-preview (1)_1180
+  - first:
+      213: -4207860762757697508
+    second: image_123986672-removebg-preview (1)_1181
+  - first:
+      213: 5679707869701646890
+    second: image_123986672-removebg-preview (1)_1182
+  - first:
+      213: -7273987943125392468
+    second: image_123986672-removebg-preview (1)_1183
+  - first:
+      213: -7602098389012501896
+    second: image_123986672-removebg-preview (1)_1184
+  - first:
+      213: 1119947321973400193
+    second: image_123986672-removebg-preview (1)_1185
+  - first:
+      213: 310981167365848626
+    second: image_123986672-removebg-preview (1)_1186
+  - first:
+      213: -7898731190154601159
+    second: image_123986672-removebg-preview (1)_1187
+  - first:
+      213: -2644889077109953865
+    second: image_123986672-removebg-preview (1)_1188
+  - first:
+      213: -4160578330521829551
+    second: image_123986672-removebg-preview (1)_1189
+  - first:
+      213: 6239982610555838682
+    second: image_123986672-removebg-preview (1)_1190
+  - first:
+      213: 4045104901231366188
+    second: image_123986672-removebg-preview (1)_1191
+  - first:
+      213: 952187393825247745
+    second: image_123986672-removebg-preview (1)_1192
+  - first:
+      213: -2425239299941512569
+    second: image_123986672-removebg-preview (1)_1193
+  - first:
+      213: -6635896913280213506
+    second: image_123986672-removebg-preview (1)_1194
+  - first:
+      213: 5012341833003850087
+    second: image_123986672-removebg-preview (1)_1195
+  - first:
+      213: -5041472297475963195
+    second: image_123986672-removebg-preview (1)_1196
+  - first:
+      213: -1741638351382229363
+    second: image_123986672-removebg-preview (1)_1197
+  - first:
+      213: -9101418756177115220
+    second: image_123986672-removebg-preview (1)_1198
+  - first:
+      213: 3865908398866021511
+    second: image_123986672-removebg-preview (1)_1199
+  - first:
+      213: -1691941251918068686
+    second: image_123986672-removebg-preview (1)_1200
+  - first:
+      213: -8225350267666674213
+    second: image_123986672-removebg-preview (1)_1201
+  - first:
+      213: -1798952196387315630
+    second: image_123986672-removebg-preview (1)_1202
+  - first:
+      213: 5560555613755896275
+    second: image_123986672-removebg-preview (1)_1203
+  - first:
+      213: 3414225972955282045
+    second: image_123986672-removebg-preview (1)_1204
+  - first:
+      213: -4197695503613875483
+    second: image_123986672-removebg-preview (1)_1205
+  - first:
+      213: -1932401397311173626
+    second: image_123986672-removebg-preview (1)_1206
+  - first:
+      213: -7056715079808672322
+    second: image_123986672-removebg-preview (1)_1207
+  - first:
+      213: 3918782457878686481
+    second: image_123986672-removebg-preview (1)_1208
+  - first:
+      213: 465695244998335089
+    second: image_123986672-removebg-preview (1)_1209
+  - first:
+      213: 8413253023229738517
+    second: image_123986672-removebg-preview (1)_1210
+  - first:
+      213: -9059924648620646600
+    second: image_123986672-removebg-preview (1)_1211
+  - first:
+      213: -7822536343985893215
+    second: image_123986672-removebg-preview (1)_1212
+  - first:
+      213: 2070329555570392826
+    second: image_123986672-removebg-preview (1)_1213
+  - first:
+      213: -3354481460916936537
+    second: image_123986672-removebg-preview (1)_1214
+  - first:
+      213: 124868797544594146
+    second: image_123986672-removebg-preview (1)_1215
+  - first:
+      213: 7651312803013161899
+    second: image_123986672-removebg-preview (1)_1216
+  - first:
+      213: -3460725588949278011
+    second: image_123986672-removebg-preview (1)_1217
+  - first:
+      213: 2092928823556185223
+    second: image_123986672-removebg-preview (1)_1218
+  - first:
+      213: -783607162528803068
+    second: image_123986672-removebg-preview (1)_1219
+  - first:
+      213: 7022313099500945960
+    second: image_123986672-removebg-preview (1)_1220
+  - first:
+      213: 2853749292095730552
+    second: image_123986672-removebg-preview (1)_1221
+  - first:
+      213: -3155065129843716279
+    second: image_123986672-removebg-preview (1)_1222
+  - first:
+      213: 121247189424806114
+    second: image_123986672-removebg-preview (1)_1223
+  - first:
+      213: 2976843939438634882
+    second: image_123986672-removebg-preview (1)_1224
+  - first:
+      213: -7368158623578394459
+    second: image_123986672-removebg-preview (1)_1225
+  - first:
+      213: -5408512049551502917
+    second: image_123986672-removebg-preview (1)_0
+  - first:
+      213: -7328839039277859950
+    second: image_123986672-removebg-preview (1)_1
+  - first:
+      213: -7575054049943492343
+    second: image_123986672-removebg-preview (1)_2
+  - first:
+      213: 8884096024259521996
+    second: image_123986672-removebg-preview (1)_3
+  - first:
+      213: -5949313792630483613
+    second: image_123986672-removebg-preview (1)_4
+  - first:
+      213: -6720947029579250540
+    second: image_123986672-removebg-preview (1)_5
+  - first:
+      213: -1206149366766833020
+    second: image_123986672-removebg-preview (1)_6
+  - first:
+      213: -2367864184873816475
+    second: image_123986672-removebg-preview (1)_7
+  - first:
+      213: 7209565345151524932
+    second: image_123986672-removebg-preview (1)_8
+  - first:
+      213: -4773070797178523513
+    second: image_123986672-removebg-preview (1)_9
+  - first:
+      213: -2028858842493647493
+    second: image_123986672-removebg-preview (1)_10
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: image_123986672-removebg-preview (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1154
+        width: 433
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1101b42fa11f4b0800000000000000
+      internalID: -5408512049551502917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: image_123986672-removebg-preview (1)_1
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1154
+        width: 433
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29bf3df39bbba4a90800000000000000
+      internalID: -7328839039277859950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: image_123986672-removebg-preview (1)_2
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1154
+        width: 433
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909ebb6d97000e690800000000000000
+      internalID: -7575054049943492343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: image_123986672-removebg-preview (1)_3
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 1154
+        width: 433
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccde27c9346aa4b70800000000000000
+      internalID: 8884096024259521996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: image_123986672-removebg-preview (1)_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 577
+        width: 433
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3659dec50aacf6da0800000000000000
+      internalID: -5949313792630483613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: image_123986672-removebg-preview (1)_5
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 577
+        width: 433
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49446b329466ab2a0800000000000000
+      internalID: -6720947029579250540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: image_123986672-removebg-preview (1)_6
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 577
+        width: 433
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482fcc79a85e24fe0800000000000000
+      internalID: -1206149366766833020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: image_123986672-removebg-preview (1)_7
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 577
+        width: 433
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ee930c118a32fd0800000000000000
+      internalID: -2367864184873816475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: image_123986672-removebg-preview (1)_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 433
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44029b6cb758d0460800000000000000
+      internalID: 7209565345151524932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: image_123986672-removebg-preview (1)_9
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 0
+        width: 433
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78032661665a2cdb0800000000000000
+      internalID: -4773070797178523513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: image_123986672-removebg-preview (1)_10
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 0
+        width: 433
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7581c1d1ab08d3e0800000000000000
+      internalID: -2028858842493647493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
