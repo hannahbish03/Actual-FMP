@@ -40,7 +40,7 @@ public class Player : MonoBehaviour
 
     public bool IsGrounded()
     {
-        Collider2D groundCheck = Physics2D.OverlapCircle(feet.position, 0.5f, groundLayers);
+        Collider2D groundCheck = Physics2D.OverlapCircle(feet.position, 1.4f, groundLayers);
 
         if (groundCheck != null)
         {
