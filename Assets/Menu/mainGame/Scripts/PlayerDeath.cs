@@ -3,7 +3,9 @@
 
 using System.Collections;
 using System.Collections.Generic;
+using UnityEngine.SceneManagement;
 using UnityEngine;
+
 
 public class PlayerDeath : MonoBehaviour
 {
@@ -12,10 +14,10 @@ public class PlayerDeath : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Enemy"))
         {
-            Destroy(gameObject);
-            LevelManager.instance.Respawn();
-
-
+            //  Destroy(gameObject);
+            //  LevelManager.instance.Respawn();
+            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+           
         }
     }
 }
