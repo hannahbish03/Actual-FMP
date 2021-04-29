@@ -1,40 +1,37 @@
 fileFormatVersion: 2
-guid: 93425e34e70767a40bcf2807400a30fc
+guid: a58331aca06ec484889f1917aa7c592c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8643395174387293514
-    second: image_123986672-removebg-preview (2)_0
+      213: -3838241492584662357
+    second: New Piskel (16)_0
   - first:
-      213: -4383172399085342803
-    second: image_123986672-removebg-preview (2)_1
+      213: -1229759006061639652
+    second: New Piskel (16)_1
   - first:
-      213: 4199404696480736466
-    second: image_123986672-removebg-preview (2)_2
+      213: 4369365396130447957
+    second: New Piskel (16)_2
   - first:
-      213: 6102225843618900834
-    second: image_123986672-removebg-preview (2)_3
+      213: -3289286225547099253
+    second: New Piskel (16)_3
   - first:
-      213: -3740087597864665158
-    second: image_123986672-removebg-preview (2)_4
+      213: -1143546393631106020
+    second: New Piskel (16)_4
   - first:
-      213: 4721694999602653483
-    second: image_123986672-removebg-preview (2)_5
+      213: 6517320471709444741
+    second: New Piskel (16)_5
   - first:
-      213: 1515393517501173074
-    second: image_123986672-removebg-preview (2)_6
+      213: -5830582933325639045
+    second: New Piskel (16)_6
   - first:
-      213: -1449951900766435098
-    second: image_123986672-removebg-preview (2)_7
+      213: -6132516424982954523
+    second: New Piskel (16)_7
   - first:
-      213: 8159116623477829602
-    second: image_123986672-removebg-preview (2)_8
+      213: 10858045881509718
+    second: New Piskel (16)_8
   - first:
-      213: -3670567777273071668
-    second: image_123986672-removebg-preview (2)_9
-  - first:
-      213: -1198189839643975330
-    second: image_123986672-removebg-preview (2)_10
+      213: -2395720044268972005
+    second: New Piskel (16)_9
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -76,8 +73,8 @@ TextureImporter:
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
-  alignment: 1
-  spritePivot: {x: 0, y: 1}
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
@@ -192,13 +189,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: image_123986672-removebg-preview (2)_0
+      name: New Piskel (16)_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 1154
-        width: 433
-        height: 577
+        y: 300
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -206,20 +203,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a4d1eaecd1283f770800000000000000
-      internalID: 8643395174387293514
+      spriteID: baa7358c2b3dbbac0800000000000000
+      internalID: -3838241492584662357
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: image_123986672-removebg-preview (2)_1
+      name: New Piskel (16)_1
       rect:
         serializedVersion: 2
-        x: 433
-        y: 1154
-        width: 433
-        height: 577
+        x: 100
+        y: 300
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -227,20 +224,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dafa8331de7db23c0800000000000000
-      internalID: -4383172399085342803
+      spriteID: c18cb5413b40feee0800000000000000
+      internalID: -1229759006061639652
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: image_123986672-removebg-preview (2)_2
+      name: New Piskel (16)_2
       rect:
         serializedVersion: 2
-        x: 866
-        y: 1154
-        width: 433
-        height: 577
+        x: 200
+        y: 300
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -248,41 +245,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2d467d17258474a30800000000000000
-      internalID: 4199404696480736466
+      spriteID: 5524d3a8daa13ac30800000000000000
+      internalID: 4369365396130447957
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: image_123986672-removebg-preview (2)_3
-      rect:
-        serializedVersion: 2
-        x: 1299
-        y: 1154
-        width: 433
-        height: 577
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 26bec14e2167fa450800000000000000
-      internalID: 6102225843618900834
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: image_123986672-removebg-preview (2)_4
+      name: New Piskel (16)_3
       rect:
         serializedVersion: 2
         x: 0
-        y: 577
-        width: 433
-        height: 577
+        y: 200
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -290,20 +266,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: abfbe64452a881cc0800000000000000
-      internalID: -3740087597864665158
+      spriteID: b830ea1fa9b1a52d0800000000000000
+      internalID: -3289286225547099253
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: image_123986672-removebg-preview (2)_5
+      name: New Piskel (16)_4
       rect:
         serializedVersion: 2
-        x: 433
-        y: 577
-        width: 433
-        height: 577
+        x: 100
+        y: 200
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -311,20 +287,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b29ed05e594d68140800000000000000
-      internalID: 4721694999602653483
+      spriteID: c1c507f1d9e4120f0800000000000000
+      internalID: -1143546393631106020
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: image_123986672-removebg-preview (2)_6
+      name: New Piskel (16)_5
       rect:
         serializedVersion: 2
-        x: 866
-        y: 577
-        width: 433
-        height: 577
+        x: 200
+        y: 200
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -332,20 +308,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 25d46911062c70510800000000000000
-      internalID: 1515393517501173074
+      spriteID: 58a6f93507c227a50800000000000000
+      internalID: 6517320471709444741
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: image_123986672-removebg-preview (2)_7
+      name: New Piskel (16)_6
       rect:
         serializedVersion: 2
-        x: 1299
-        y: 577
-        width: 433
-        height: 577
+        x: 0
+        y: 100
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -353,20 +329,62 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6e80a6dad6cb0ebe0800000000000000
-      internalID: -1449951900766435098
+      spriteID: b729ba1c6bb951fa0800000000000000
+      internalID: -5830582933325639045
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: image_123986672-removebg-preview (2)_8
+      name: New Piskel (16)_7
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed74ad8dcce4eaa0800000000000000
+      internalID: -6132516424982954523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Piskel (16)_8
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657e8bfc553962000800000000000000
+      internalID: 10858045881509718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Piskel (16)_9
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 433
-        height: 577
+        width: 100
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -374,50 +392,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2ef616717510b3170800000000000000
-      internalID: 8159116623477829602
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: image_123986672-removebg-preview (2)_9
-      rect:
-        serializedVersion: 2
-        x: 433
-        y: 0
-        width: 433
-        height: 577
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cc7b4a7dd068f0dc0800000000000000
-      internalID: -3670567777273071668
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: image_123986672-removebg-preview (2)_10
-      rect:
-        serializedVersion: 2
-        x: 866
-        y: 0
-        width: 433
-        height: 577
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e51e98a60bc2f5fe0800000000000000
-      internalID: -1198189839643975330
+      spriteID: b1890141051b0ced0800000000000000
+      internalID: -2395720044268972005
       vertices: []
       indices: 
       edges: []
