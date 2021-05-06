@@ -29,6 +29,8 @@ public class Player : MonoBehaviour
         Vector2 movement = new Vector2(mx * movementSpeed, rb.velocity.y);
 
         rb.velocity = movement;
+
+        GetComponent<Animator>().SetBool("Jumping", !IsGrounded());
     }
 
     void Jump()
