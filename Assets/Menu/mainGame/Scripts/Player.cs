@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class Player : MonoBehaviour
@@ -11,9 +9,19 @@ public class Player : MonoBehaviour
     public float jumpForce = 20f;
     public Transform feet;
     public LayerMask groundLayers;
-    
+    SpriteRenderer anotherSpriteRenderer;
+
+    SpriteRenderer mySpriteRenderer;
+
     float mx;
-   
+
+    void Start()
+    {
+        mySpriteRenderer = GetComponent<SpriteRenderer>();
+
+    }
+
+
     private void Update()
     {
         mx = Input.GetAxisRaw("Horizontal");
@@ -22,15 +30,36 @@ public class Player : MonoBehaviour
             Jump();
 
         }
+
+        Vector2 input = new Vector2(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical"));
+        if (input.x < 0)
+            if ( mySpriteRenderer != null)
+            {
+                  mySpriteRenderer.flipX = true;
+            }
+
+
+
+        if (input.x > 0)
+        {
+            if ( mySpriteRenderer != null)
+            {
+                mySpriteRenderer.flipX = false;
+            }
+
+        }
     }
 
-    private void FixedUpdate()
+     void FixedUpdate()
     {
         Vector2 movement = new Vector2(mx * movementSpeed, rb.velocity.y);
 
         rb.velocity = movement;
 
         GetComponent<Animator>().SetBool("Jumping", !IsGrounded());
+
+
+      
     }
 
     void Jump()
@@ -62,13 +91,18 @@ public class Player : MonoBehaviour
         }
 
         
+
     }
 
+        
+
+        }
 
 
 
 
-}
+
+
 
 
     
