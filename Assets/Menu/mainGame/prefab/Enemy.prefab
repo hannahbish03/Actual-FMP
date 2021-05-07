@@ -44,9 +44,9 @@ CircleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.22537214, y: 0.0038079887}
+  m_Offset: {x: -0.009033778, y: 0.009276867}
   serializedVersion: 2
-  m_Radius: 0.50272685
+  m_Radius: 2.428403
 --- !u!1 &1080941578104343187
 GameObject:
   m_ObjectHideFlags: 0
@@ -75,8 +75,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1080941578104343187}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 10.3416, y: -2.6211, z: 0}
-  m_LocalScale: {x: 0.7983028, y: 0.79774666, z: 1}
+  m_LocalPosition: {x: 10.0228, y: -2.8928, z: 0}
+  m_LocalScale: {x: 0.1, y: 0.1, z: 1}
   m_Children:
   - {fileID: 1080941577620928037}
   m_Father: {fileID: 0}
@@ -121,7 +121,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 0f83419922fd7624fb86b767cbe27350, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 7426e54a7124ec947a5c2356ed41bc8e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -145,9 +145,9 @@ CircleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.011168569, y: 0.011721934}
+  m_Offset: {x: -0.1891613, y: -0.005609095}
   serializedVersion: 2
-  m_Radius: 0.49178818
+  m_Radius: 2.733717
 --- !u!50 &1080941578104343189
 Rigidbody2D:
   serializedVersion: 4
@@ -181,7 +181,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c09529b432e603549b006b70266b9a9d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 2
+  speed: 4
   rb: {fileID: 1080941578104343189}
   groundLayers:
     serializedVersion: 2
