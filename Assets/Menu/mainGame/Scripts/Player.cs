@@ -10,6 +10,8 @@ public class Player : MonoBehaviour
     public Transform feet;
     public LayerMask groundLayers;
     SpriteRenderer anotherSpriteRenderer;
+    public int score;
+    int collectables;
 
     SpriteRenderer mySpriteRenderer;
 
@@ -19,6 +21,7 @@ public class Player : MonoBehaviour
     {
         mySpriteRenderer = GetComponent<SpriteRenderer>();
 
+        score = 0;
     }
 
 
