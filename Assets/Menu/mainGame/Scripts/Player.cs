@@ -90,7 +90,7 @@ public class Player : MonoBehaviour
         if (collision2D.gameObject.tag == "Winner")
         {
             Debug.Log("works");
-            SceneManager.LoadScene("EndScene");
+            SceneManager.LoadScene("Ultimate ending");
         }
 
         
