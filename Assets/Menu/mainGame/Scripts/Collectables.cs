@@ -35,7 +35,7 @@ public class Collectables : MonoBehaviour
             Debug.Log(scoreText.text);
             Destroy(gameObject);
 
-            if (thePlayer.score > 20)
+            if (thePlayer.score > 10)
             {
                 SceneManager.LoadScene(2);
                 // go to win scene 
